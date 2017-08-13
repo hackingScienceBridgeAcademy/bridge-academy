@@ -10,7 +10,7 @@ In this project you'll learn how to draw a picture on the Sense HAT.
 
 You can try out the complete version of the project here:
 
-<a href="https://goo.gl/g8TbhW">https://goo.gl/g8TbhW</a>
+<a href="https://goo.gl/g8TbhW" target="_blank">https://goo.gl/g8TbhW</a>
 
 Press the middle joystick button (ENTER), to make the smiley face
 wink. As a bonus, you can challenge yourself by adding a similar feature to
@@ -31,7 +31,7 @@ In programming, skeleton code means code that only has the basic elements of a
 program. It is up to you to fill in the rest!
 
 You can find the skeleton code on Trinket, here:
-<a href="https://goo.gl/mBxSCg">https://goo.gl/mBxSCg</a>
+<a href="https://goo.gl/mBxSCg" target="_blank">https://goo.gl/mBxSCg</a>
 
 **If you can, you should also create and account and log in to Trinket. This will
 allow you to save the Trinket projects. Otherwise you have to copy the code on

@@ -12,7 +12,7 @@ The Sense HAT can tell whether you're tilting your device, using this feature
 we can create the game. You'll also get to design your own maze in this
 project.
 
-Check out an example solution of the game here: <a href="https://goo.gl/uGzkKz">https://goo.gl/uGzkKz</a>
+Check out an example solution of the game here: <a href="https://goo.gl/uGzkKz" target="_blank">https://goo.gl/uGzkKz</a>
 
 *To control the ball on Trinket, drag the Sense HAT around in the different
 directions with your mouse*.
@@ -32,7 +32,7 @@ In programming, skeleton code means code that only has the basic elements of a
 program. It is up to you to fill in the rest!
 
 You can find the skeleton code on Trinket, here:
-<a href="https://goo.gl/TEVxE8">https://goo.gl/TEVxE8</a>
+<a href="https://goo.gl/TEVxE8" target="_blank">https://goo.gl/TEVxE8</a>
 
 **If you can, you should also create and account and log in to Trinket. This will
 allow you to save the Trinket projects. Otherwise you have to copy the code on

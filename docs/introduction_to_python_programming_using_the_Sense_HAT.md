@@ -44,7 +44,7 @@ its ready, we're going to be testing all our code on a *virtual* Sense HAT
 on a website called *Trinket*.
 
 Open up the following link:
-<a href="https://goo.gl/JRpQfC">https://goo.gl/JRpQfC</a>
+<a href="https://goo.gl/JRpQfC" target="_blank">https://goo.gl/JRpQfC</a>
 
 This opens up an example project that we've prepared. The left side of the page
 has some *Python* code already. Don't worry if it all looks like gibberish right now!
@@ -330,7 +330,7 @@ print("There are" , minutes_in_a_week , "minutes in a week")
 ```
 
 You don't have to copy this code, you can go on the following link to see the
-code in action: <a href="https://goo.gl/CZH1UX">https://goo.gl/CZH1UX</a>.
+code in action: <a href="https://goo.gl/CZH1UX" target="_blank">https://goo.gl/CZH1UX</a>.
 
 But before you run it, try to just read the code and figure out what it does
 yourself. It's good practice!
@@ -391,7 +391,7 @@ if my_variable == 10:
     print("The number is equal to 10.")
 ```
 
-You don't havet copy this code, you can see it here: <a href="https://goo.gl/jpmjLj">https://goo.gl/jpmjLj</a>. Before running
+You don't havet copy this code, you can see it here: <a href="https://goo.gl/jpmjLj" target="_blank">https://goo.gl/jpmjLj</a>. Before running
 it, read the code and guess what it does.
 
 In the code above, we were able to compare numbers in the if statements using the

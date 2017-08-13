@@ -14,7 +14,7 @@ will be made from ground-up, so it's definitely one of the harder projects to do
 
 You can try out the complete version of the game here:
 
-<a href="https://goo.gl/uX7xCZ">https://goo.gl/uX7xCZ</a>
+<a href="https://goo.gl/uX7xCZ" target="_blank">https://goo.gl/uX7xCZ</a>
 
 Use the up and down keys to move your paddle.
 
@@ -33,7 +33,7 @@ In programming, skeleton code means code that only has the basic elements of a
 program. It is up to you to fill in the rest!
 
 You can find the skeleton code on Trinket, here:
-<a href="https://goo.gl/77PmJ8">https://goo.gl/77PmJ8</a>
+<a href="https://goo.gl/77PmJ8" target="_blank">https://goo.gl/77PmJ8</a>
 
 **If you can, you should also create and account and log in to Trinket. This will
 allow you to save the Trinket projects. Otherwise you have to copy the code on

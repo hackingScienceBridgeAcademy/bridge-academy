@@ -9,7 +9,7 @@ screen.
 
 You can try out the complete version of the project here:
 
-<a href="https://goo.gl/TeQW7T">https://goo.gl/TeQW7T</a>
+<a href="https://goo.gl/TeQW7T" target="_blank">https://goo.gl/TeQW7T</a>
 
 Use the up, left, right and left arrows to move the brush. Press the middle button
 (ENTER) to paint a pixel.
@@ -29,7 +29,7 @@ In programming, skeleton code means code that only has the basic elements of a
 program. It is up to you to fill in the rest!
 
 You can find the skeleton code on Trinket, here:
-<a href="https://goo.gl/rXr3vQ">https://goo.gl/rXr3vQ</a>
+<a href="https://goo.gl/rXr3vQ" target="_blank">https://goo.gl/rXr3vQ</a>
 
 **If you can, you should also create and account and log in to Trinket. This will
 allow you to save the Trinket projects. Otherwise you have to copy the code on

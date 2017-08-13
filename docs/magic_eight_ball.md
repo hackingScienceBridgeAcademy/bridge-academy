@@ -7,12 +7,12 @@
 ## Description
 
 In this project we'll be creating a *Magic 8 ball* using the Sense HAT. If you've never seen one
-before, you might remember it from Toy Story: <a href="https://www.youtube.com/watch?v=mFOracFClBg">https://www.youtube.com/watch?v=mFOracFClBg</a>.
+before, you might remember it from Toy Story: <a href="https://www.youtube.com/watch?v=mFOracFClBg" target="_blank">https://www.youtube.com/watch?v=mFOracFClBg</a>.
 
 It's a very simple toy: You ask it a question, you shake the ball (or Sense HAT),
 and it'll give you an answer.
 
-You can try an example solution of the project here: <a href="https://goo.gl/VwaJLD">https://goo.gl/VwaJLD</a>
+You can try an example solution of the project here: <a href="https://goo.gl/VwaJLD" target="_blank">https://goo.gl/VwaJLD</a>
 
 To get the answer, press the middle-joystick button (ENTER). In the version you
 will make, you have to shake the Sense HAT to get the answer. Unfortunately
@@ -34,7 +34,7 @@ In programming, skeleton code means code that only has the basic elements of a
 program. It is up to you to fill in the rest!
 
 You can find the skeleton code on Trinket, here:
-<a href="https://goo.gl/bzqdNi">hhttps://goo.gl/bzqdNi</a>
+<a href="https://goo.gl/bzqdNi" target="_blank">hhttps://goo.gl/bzqdNi</a>
 
 **If you can, you should also create and account and log in to Trinket. This will
 allow you to save the Trinket projects. Otherwise you have to copy the code on

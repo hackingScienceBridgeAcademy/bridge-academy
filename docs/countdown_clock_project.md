@@ -12,7 +12,7 @@ down to 0.
 
 You can try out the complete version of the project here:
 
-<a href="https://goo.gl/Uk54ox">https://goo.gl/Uk54ox</a>
+<a href="https://goo.gl/Uk54ox" target="_blank">https://goo.gl/Uk54ox</a>
 
 Use the up- and down-keys to select the number, and press the middle joystick
 button (ENTER), to start counting.
@@ -32,7 +32,7 @@ In programming, skeleton code means code that only has the basic elements of a
 program. It is up to you to fill in the rest!
 
 You can find the skeleton code on Trinket, here:
-<a href="https://goo.gl/iPQjfU">https://goo.gl/iPQjfU</a>
+<a href="https://goo.gl/iPQjfU" target="_blank">https://goo.gl/iPQjfU</a>
 
 **If you can, you should also create and account and log in to Trinket. This will
 allow you to save the Trinket projects. Otherwise you have to copy the code on
