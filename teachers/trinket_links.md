@@ -1,5 +1,8 @@
 ### Trinket project links
 
+Here are all the solutions to the Trinket projects. There are links
+to both the skeleton codes as well as the solutions.
+
 #### Countdown clock
 
 - <a href="https://goo.gl/Uk54ox">**Solution (no code)**<a/>
@@ -54,9 +57,3 @@
 ### Empty project
 
 - <a href="https://goo.gl/Ai7nR9">**Link**</a>
-
-
-
-- <a href="">**Solution (no code)**<a/>
-- <a href="">**Solution (with code)**<a/>
-- <a href="">**Skeleton**<a/>
