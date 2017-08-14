@@ -2,7 +2,7 @@
 
 ### Difficulty level: Hard
 
-<img src="./media/clock.jpeg"></img>
+<img src="./media/clock.jpeg">
 
 ## Description
 

@@ -2,7 +2,7 @@
 
 ### Difficulty level: Very hard
 
-<img src="./media/pong_screenshot.png"></img>
+<img src="./media/pong_screenshot.png">
 
 ## Description
 
@@ -192,7 +192,7 @@ paddles. Player1 should be on the left side of the screen, so its x-coordinate s
 Once you've done this, you can try running the game. The screen should look something
 like
 
-<img src="./media/game.png"></img>
+<img src="./media/game.png">
 
 In Sec. 2.8, add the following line, in order to clear the screen each game loop.
 This is important, as otherwise if the ball moves across the screen, it'll leave a trail!

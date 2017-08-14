@@ -1,6 +1,6 @@
 # UCL Coding Summer School
 
-<img src="header.jpg"></img>
+<img src="header.jpg">
 
 Welcome! This is the main page that contains all the resources you'll use during this summer school.
 

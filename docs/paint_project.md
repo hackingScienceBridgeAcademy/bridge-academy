@@ -47,7 +47,6 @@ For example:
 
 This guide will go through the various sections (not necessarily in order), and
 help you write your code. **Very important note:** *You should add the code in the specified section in your skeleton code as you follow this guide.*
-
 The next part of this guide will explain the stuff that's
 already in the skeleton code when you first open it.
 
@@ -88,6 +87,7 @@ Sec. 2.2 is where we'll write code that changes the color of the brush.
 
 ---
 
+#
 ### Writing the code
 
 ##### (Sec. 1.3) Set up the variables
@@ -236,7 +236,7 @@ currentColor = random.randint(0, len(colors) - 1)
 
 If it's all done, correctly, the game should now work! Don't worry if it doesn't,
 things often go wrong in programming. Errors in code are usually called *bugs*. If
-you have a bug in your code, you'll have to *debug* it!
+you have a bug in your code, you'll have to *debug*it!
 
 If it works, congratulations! You can either move on to another project or try
 to come up with new things to add to the current project. Use your creativity!

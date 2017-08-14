@@ -2,7 +2,7 @@
 
 ### Difficulty level: Easy
 
-<img src="./media/smiley.png"></img>
+<img src="./media/smiley.png">
 
 ## Description
 

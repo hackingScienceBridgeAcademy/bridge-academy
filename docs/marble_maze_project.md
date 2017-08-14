@@ -2,7 +2,7 @@
 
 ### Difficulty level: Medium
 
-<img src="./media/marble_maze.jpg"></img>
+<img src="./media/marble_maze.jpg">
 
 ## Description
 
@@ -59,7 +59,7 @@ already in the skeleton code when you first open it.
 The game you'll be working works very similarly to an actual Marble Maze game. Here's
 a screenshot of the game:
 
-<img src="./media/marble_maze_screenshot.png"></img>
+<img src="./media/marble_maze_screenshot.png">
 
 You have a ball (red dot in the picture) that you control move around by tilting the Sense HAT. The ball can collide and
 be stopped by the walls (white dots in the picture) of the maze. The player loses if
@@ -206,7 +206,7 @@ works, you can check the *Function Reference* document.
 After you've added all of this, all the stuff should be drawn on the scren if you
 start it! Because you haven't yet added anything, it should look similar to this:
 
-<img src="./media/empty_map.png"></img>
+<img src="./media/empty_map.png">
 
 #### (Sec. 2.1) Make the ball move
 

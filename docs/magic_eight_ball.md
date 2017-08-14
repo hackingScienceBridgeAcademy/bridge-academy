@@ -2,7 +2,7 @@
 
 ### Difficulty level: Easy
 
-<img src="./media/8ball.jpg"></img>
+<img src="./media/8ball.jpg">
 
 ## Description
 

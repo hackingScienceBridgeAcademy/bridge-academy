@@ -2,7 +2,7 @@
 
 ### Difficulty level: Medium
 
-<img src="./media/python.png"></img>
+<img src="./media/python.png">
 
 ## Description
 
@@ -172,7 +172,7 @@ sense.clear() # Clears the screen
 
 *Drawing the snake*
 
-<img src="./media/longsnake.png"></img>
+<img src="./media/longsnake.png">
 
 If you look at the image, you see that the snake's body can twist and turn into
 quite a complicated shape! Luckily, we have already prepared some code that
@@ -191,7 +191,7 @@ snake_body = [ [1, 1], [1, 2], [1, 3], [2, 3] ]
 
 This is shown in the picture below:
 
-<img src="./media/grid.png"></img>
+<img src="./media/grid.png">
 
 Look at the numbers to get a feeling of how the *x* and *y*-coordinates work.
 If you're having trouble understanding how this works, ask a supervisor about it!
