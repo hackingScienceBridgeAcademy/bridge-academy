@@ -60,3 +60,13 @@ and it'll give you an answer.
 #### [Draw a picture](./docs/draw_a_picture_project.md)
 
 In this project you'll learn how to draw a picture on the Sense HAT.
+
+
+### Create your own project
+
+Have you already done one of our projects, and now you want to try to make something of your own? You can start from this empty Trinket project here:
+
+<a href="https://goo.gl/Ai7nR9">https://goo.gl/Ai7nR9</a>
+
+You can discuss with your supervisors about how you could complete the project you want to do. Keep in mind
+that you only just started to learn Python, so you shouldn't try to make something that's *too* advanced yet.
