@@ -1,4 +1,4 @@
-# <p align = "center">   <img src="./media/Raspberry_Pi_Logo.png" width="27" height="34" />  Raspberry Pi Sense HAT <br> <font size="3.5"> Go4Code </font> <br>  </p>
+<h1><p align = "center">   <img src="./media/Raspberry_Pi_Logo.png" width="27" height="34" />  Raspberry Pi Sense HAT <br> <font size="3.5"> Go4Code </font> </p> </h1>
 
 # Introduction
 
@@ -10,7 +10,7 @@ The Sense HAT is an add-on board for the Raspberry Pi. It gives us the ability t
 
  The Sense HAT: The main features are outlined in red.
 
-  </br> </p>
+  <br> </p>
 
 
 ## Features:
@@ -41,7 +41,7 @@ The Sense HAT you have for the summer school has been preassembled by the Go4Cod
 
 The Sense HAT Assembly
 
- </br> </p>
+  </p>
 
  - The Sense HAT connector is first attached into the GPIO pinouts on the Raspberry Pi (the golden pins in the image above).
  - Then four hexagonal stands are placed between the Sense HAT and the Raspberry Pi on circular holes.
@@ -56,7 +56,7 @@ The end goal is to get you ready to start doing some programming of your own, in
 
 We start right from the beginning, so you don't need to have done programming before. If you have, then use this guide as a helpful reminder.
 
-### <p> <img src="./media/trinket-logo-circles.png" height="27" /> The Trinket Emulator </p>
+### <img src="./media/trinket-logo-circles.png" height="27" /> The Trinket Emulator
 
 In your projects, you'll have your own Sense HAT to play around with. But since
 you'll have to test around and tinker with your projects for quite some time before
@@ -68,7 +68,7 @@ In your project scripts you will get a trinket page to test and develop your cod
 We have embedded the Trinket Emulator into this document so you can learn to code here before you start developing your own code.
 
 
-<p align = "center"><iframe src="https://trinket.io/embed/python/80f15865f1" width="80%" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator </br> </p>
+<p align = "center"><iframe src="https://trinket.io/embed/python/80f15865f1" width="80%" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator  </p>
 
 The left side of the page has some Python code already. The right side of the page shows nothing in the beginning, but if you press the Run button <img src="./media/run_arrow.png" height="13" /> in the top left corner, a virtual Sense HAT should appear on the screen. The code in the there right now just starts the Sense HAT, but doesn't actually tell it to do anything. Let's create out first program!
 
@@ -77,7 +77,7 @@ The left side of the page has some Python code already. The right side of the pa
 
 *In this section we will go over showing messages on the Sense HAT. You should use the Emulator below to test out the code.*
 
-<p align = "center"><iframe src="https://trinket.io/embed/python/80f15865f1" width="90%" height="500" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator </br> </p>
+<p align = "center"><iframe src="https://trinket.io/embed/python/80f15865f1" width="90%" height="500" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator  </p>
 
 Copy the following into the Python code pane in the Emulator above:
 
@@ -119,7 +119,7 @@ Try changing the value of that number. Find out what that number does.
 
 Run the code in the emulator below:
 
-<p align = "center"><iframe src="https://trinket.io/embed/python/7618104fcd" width="90%" height="500" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator </br> </p>
+<p align = "center"><iframe src="https://trinket.io/embed/python/7618104fcd" width="90%" height="500" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator  </p>
 
 
 Run it again, and see what happens. The text should now be red. The last part of the line that you just wrote `text_colour=[255, 0, 0]` decides which color the text should be in. You can change these three numbers to change the color of the text. The numbers in the square brackets specify the colour of the light emitted from the pixel.
@@ -207,7 +207,7 @@ is very simple, it just displays some text. The important difference here is
 that it doesn't print out text on the screen, but in the *terminal* underneath
 the Sense HAT screen on Trinket. It is easiest for you to see for yourself:
 
-<p align = "center"><br></br><iframe src="https://trinket.io/embed/python/71b8ca94b3" width="90%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator </br></p>
+<p align = "center"><br><iframe src="https://trinket.io/embed/python/71b8ca94b3" width="90%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator </p>
 
 
 You should see some text appear in the lower-right corner of the page. Try changing it to make it print something else.
@@ -215,7 +215,7 @@ You should see some text appear in the lower-right corner of the page. Try chang
 
 #### 4. Using Python as a calculator
 
-<p align = "center"><br></br><iframe src="https://trinket.io/embed/python/3e99030816" width="90%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator </br></p>
+<p align = "center"><br><iframe src="https://trinket.io/embed/python/3e99030816" width="90%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator </p>
 
 
 Next thing we'll do is try out some simple mathematical operations in Python.
@@ -258,7 +258,7 @@ and use *print* to show the result.
 
 #### 5. Variables
 
-<p align = "center"><br></br><iframe src="https://trinket.io/embed/python/3e99030816" width="90%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator </br></p>
+<p align = "center"><br><iframe src="https://trinket.io/embed/python/3e99030816" width="90%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator </p>
 
 Python allows us to store information in _variables_.  We can use the assignment operator (the _equal-to_ sign '=') to assign a value to a variable.
 
@@ -306,7 +306,7 @@ function.
 Variables are quite useful, as they allow us to remember numbers (or other types of data, like _strings_) in terms of more memorable variable names. We can use these variables in our programs to compute things. In the Trinket below is an example of a basic program that calculates how many minutes there are in a week.
 
 
-<p align = "center"><br></br><iframe src="https://trinket.io/embed/python/f673a22b13" width="90%" height="500" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe><br> Trinket Emulator </br></p>
+<p align = "center"><br><iframe src="https://trinket.io/embed/python/f673a22b13" width="90%" height="500" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe><br> Trinket Emulator </p>
 
 
 
@@ -333,7 +333,7 @@ sense.set_pixel(2, 4, 255, 255, 255)
 sense.set_pixel(4, 4, 255, 255, 255)
 ```
 
-<p align = "center"><br></br><iframe src="https://trinket.io/embed/python/3e99030816" width="90%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator </br></p>
+<p align = "center"><br><iframe src="https://trinket.io/embed/python/3e99030816" width="90%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator </p>
 
 
 It should draw a white cross on the screen. The first line, *sense.clear*,
@@ -393,7 +393,7 @@ The code that is in the *false* part of the code, is on the lines below the *els
 
 We can also create *if*-statements using numbers like in the Trinket below. Before running it, read the code and guess what it does.
 
-<p align = "center"><br></br><iframe src="https://trinket.io/embed/python/e04469e0b6" width="90%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator </br></p>
+<p align = "center"><br><iframe src="https://trinket.io/embed/python/e04469e0b6" width="90%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator </p>
 
 
 In the code above, we were able to compare numbers in the if statements using the
@@ -413,7 +413,7 @@ worry if you don't understand everything yet!
 - Define a variable called *myNumber*, and assign it any number you like.
 - Using if-statements, make the program say whether the number is positive, negative or equal to zero.
 
-<p align = "center"><br></br><iframe src="https://trinket.io/embed/python/3e99030816" width="90%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator </br></p>
+<p align = "center"><br><iframe src="https://trinket.io/embed/python/3e99030816" width="90%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator </p>
 
 ## 10. Lists
 
@@ -444,13 +444,13 @@ print(myList[4])
 Copy this code and see what it does. Note that the *first* element is given
 by the number *0* in the list, and the second by *1* and so on...
 
-<p align = "center"><br></br><iframe src="https://trinket.io/embed/python/3e99030816" width="90%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator </br></p>
+<p align = "center"><br><iframe src="https://trinket.io/embed/python/3e99030816" width="90%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator </p>
 
 
 **Exercise 10:** In the Trinket below repeat Exercise 7, but instead of storing your
 name and age is separate variables, store them in a *single* list.
 
-<p align = "center"><br></br><iframe src="https://trinket.io/embed/python/3e99030816" width="90%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator </br></p>
+<p align = "center"><br><iframe src="https://trinket.io/embed/python/3e99030816" width="90%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator </p>
 
 
 ## 11. For-loops
@@ -480,13 +480,13 @@ Play around with the code and see if you can make it do more complicated!
 
 **Exercise 10:** Write a program that *prints* the numbers from 50 to 100.
 
-<p align = "center"><br></br><iframe src="https://trinket.io/embed/python/3e99030816" width="90%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator </br></p>
+<p align = "center"><br><iframe src="https://trinket.io/embed/python/3e99030816" width="90%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator </p>
 
 
 **Exercise 11:** Write a program that draws a line of yellow pixels from the
 top-left corner, to the bottom-right corner.
 
-<p align = "center"><br></br><iframe src="https://trinket.io/embed/python/3e99030816" width="90%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator </br></p>
+<p align = "center"><br><iframe src="https://trinket.io/embed/python/3e99030816" width="90%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator </p>
 
 
 ## 12. While-loops
@@ -522,7 +522,7 @@ actually come in handy, and we'll often use them in our projects!
 **Exercise 12:** Redo exercise 10, but with a *while*-loop, instead of a
 *for*-loop.
 
-<p align = "center"><br></br><iframe src="https://trinket.io/embed/python/3e99030816" width="90%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator </br></p>
+<p align = "center"><br><iframe src="https://trinket.io/embed/python/3e99030816" width="90%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator </p>
 
 ## 13. What's next?
 
