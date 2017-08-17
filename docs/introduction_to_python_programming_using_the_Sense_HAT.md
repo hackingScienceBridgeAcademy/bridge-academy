@@ -39,12 +39,12 @@ home with you after the end!
 ### 1. Trinket, and writing your first program
 
 In your projects, you'll have your own Sense HAT to play around with. But since
-you'll have test around and tinker with your projects for quite some time before
+you'll have to test around and tinker with your projects for quite some time before
 its ready, we're going to be testing all our code on a *virtual* Sense HAT
 on a website called *Trinket*.
 
 Open up the following link:
-<a href="https://goo.gl/JRpQfC" target="_blank">https://goo.gl/JRpQfC</a>
+<a href="https://goo.gl/JRpQfC" target="blank">https://goo.gl/JRpQfC</a>
 
 This opens up an example project that we've prepared. The left side of the page
 has some *Python* code already. Don't worry if it all looks like gibberish right now!

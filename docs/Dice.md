@@ -225,7 +225,6 @@ After this Raspberry Pi will go back back to the top of the *Main*-loop and star
 
 If everything went well, you will have made dice! If you want, try implementing some of the features suggested below.
 
-
 #### Additional features
 **These are optional**
 

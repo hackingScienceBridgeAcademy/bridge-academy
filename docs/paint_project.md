@@ -1,15 +1,14 @@
-# Project: Paint
+# Project: Board for Snakes and Ladders
 
-### Difficulty level: Medium
+### Difficulty level: Medium/Hard
 
 ## Description
 
-In this project you'll create a simple program that allows you to paint on the
-screen.
+In this project you will create a *Board* for the classic board game snakes and ladders.  
 
 You can try out the complete version of the project here:
 
-<a href="https://goo.gl/TeQW7T" target="_blank">https://goo.gl/TeQW7T</a>
+<a href="https://goo.gl/TeQW7T" target="blank">https://goo.gl/TeQW7T</a>
 
 Use the up, left, right and left arrows to move the brush. Press the middle button
 (ENTER) to paint a pixel.

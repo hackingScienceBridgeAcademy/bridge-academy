@@ -31,7 +31,7 @@ In programming, skeleton code means code that only has the basic elements of a
 program. It is up to you to fill in the rest!
 
 You can find the skeleton code on Trinket, here:
-<a href="https://goo.gl/mBxSCg" target="_blank">https://goo.gl/mBxSCg</a>
+<a href="https://goo.gl/mBxSCg" target="blank">https://goo.gl/mBxSCg</a>
 
 **If you can, you should also create and account and log in to Trinket. This will
 allow you to save the Trinket projects. Otherwise you have to copy the code on
@@ -88,7 +88,7 @@ Section 2 is where you'll actually be coding.
 Use your own imagination to draw a picture on the Sense HAT screen.
 
 The screen is composed f 8 *rows*, where each row has 8 pixels each. So in total
-we have 8*8=64 pixels. We often refer to which *row* a pixel is at as its *y-coordinate*,
+we have _8*8_=64 pixels. We often refer to which *row* a pixel is at as its *y-coordinate*,
 and which column is at as its *x-coordinate*.
 
 To draw a pixel, you should use the *sense.set_pixel*

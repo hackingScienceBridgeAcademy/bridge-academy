@@ -10,7 +10,7 @@ In this project, you'll recreate the classic game *Snake*.
 
 You can try out the complete version of the project here:
 
-<a href="https://goo.gl/qXzrui" target="_blank">https://goo.gl/qXzrui</a>
+<a href="https://goo.gl/qXzrui" target="_blank_">https://goo.gl/qXzrui</a>
 
 Use the up, down, left and right keys to move the snake around. Eat the
 apples to grow.
@@ -30,7 +30,7 @@ In programming, skeleton code means code that only has the basic elements of a
 program. It is up to you to fill in the rest!
 
 You can find the skeleton code on Trinket, here:
-<a href="https://goo.gl/VkEkW1" target="_blank">https://goo.gl/VkEkW1</a>
+<a href="https://goo.gl/VkEkW1" target="_blank_">https://goo.gl/VkEkW1</a>
 
 **If you can, you should also create and account and log in to Trinket. This will
 allow you to save the Trinket projects. Otherwise you have to copy the code on
