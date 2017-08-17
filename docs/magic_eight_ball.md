@@ -12,7 +12,9 @@ before, you might remember it from Toy Story: <a href="https://www.youtube.com/w
 It's a very simple toy: You ask it a question, you shake the ball (or Sense HAT),
 and it'll give you an answer.
 
-You can try an example solution of the project here: <a href="https://goo.gl/VwaJLD" target="_blank">https://goo.gl/VwaJLD</a>
+You can try an example solution of the project here:
+
+<iframe src="https://trinket.io/embed/python/08820f7aef?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 To get the answer, press the middle-joystick button (ENTER). In the version you
 will make, you have to shake the Sense HAT to get the answer. Unfortunately

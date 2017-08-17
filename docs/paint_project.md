@@ -8,7 +8,7 @@ In this project you will create a *Board* for the classic board game snakes and 
 
 You can try out the complete version of the project here:
 
-<a href="https://goo.gl/TeQW7T" target="blank">https://goo.gl/TeQW7T</a>
+<iframe src="https://trinket.io/embed/python/aed57e6477?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Use the up, left, right and left arrows to move the brush. Press the middle button
 (ENTER) to paint a pixel.

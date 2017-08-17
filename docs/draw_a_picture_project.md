@@ -10,7 +10,7 @@ In this project you'll learn how to draw a picture on the Sense HAT.
 
 You can try out the complete version of the project here:
 
-<a href="https://goo.gl/g8TbhW" target="_blank">https://goo.gl/g8TbhW</a>
+<iframe src="https://trinket.io/embed/python/0c213b2f0e?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Press the middle joystick button (ENTER), to make the smiley face
 wink. As a bonus, you can challenge yourself by adding a similar feature to

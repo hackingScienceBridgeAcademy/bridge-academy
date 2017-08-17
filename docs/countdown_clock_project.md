@@ -12,7 +12,7 @@ down to 0.
 
 You can try out the complete version of the project here:
 
-<a href="https://goo.gl/Uk54ox" target="_blank">https://goo.gl/Uk54ox</a>
+<iframe src="https://trinket.io/embed/python/8c80e4fd5d?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Use the up- and down-keys to select the number, and press the middle joystick
 button (ENTER), to start counting.

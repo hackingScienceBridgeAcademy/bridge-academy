@@ -14,7 +14,7 @@ will be made from ground-up, so it's definitely one of the harder projects to do
 
 You can try out the complete version of the game here:
 
-<a href="https://goo.gl/uX7xCZ" target="_blank">https://goo.gl/uX7xCZ</a>
+<iframe src="https://trinket.io/embed/python/c9cb8d15f4?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Use the up and down keys to move your paddle.
 

@@ -12,7 +12,9 @@ The Sense HAT can tell whether you're tilting your device, using this feature
 we can create the game. You'll also get to design your own maze in this
 project.
 
-Check out an example solution of the game here: <a href="https://goo.gl/uGzkKz" target="_blank">https://goo.gl/uGzkKz</a>
+Check out an example solution of the game here:
+
+<iframe src="https://trinket.io/embed/python/1d76ec3c6e?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 *To control the ball on Trinket, drag the Sense HAT around in the different
 directions with your mouse*.

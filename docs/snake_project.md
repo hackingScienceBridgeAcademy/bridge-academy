@@ -10,7 +10,7 @@ In this project, you'll recreate the classic game *Snake*.
 
 You can try out the complete version of the project here:
 
-<a href="https://goo.gl/qXzrui" target="_blank_">https://goo.gl/qXzrui</a>
+<iframe src="https://trinket.io/embed/python/745705ffc2?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Use the up, down, left and right keys to move the snake around. Eat the
 apples to grow.
