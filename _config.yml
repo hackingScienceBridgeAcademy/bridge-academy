@@ -8,4 +8,4 @@ kramdown:
         # Use existing pygments syntax highlighting css
         css_class: 'highlight'
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
