@@ -1,14 +1,15 @@
 <h1>
 <p align = "center" style = "line-height:1.3" >
 
-<img src="./media/orange_banner.png" width = "100%" ></img>
+<img src="./media/orange_banner.png" width = "100%" ></img></p>
 
-<font face = "Courier"> Go4Code Summer School</font>
+<p align = "center" style = "line-height:1.3" >
 
-<font size = "5", face = "Courier"> Student Guide </font></p>
+<font face = "Courier"> Go4Code Summer School</font><br>
+
+<font size = "5", face = "Courier"> Student Guide </font>
+</p>
 </h1>
-
-
 
 Welcome to the UCL Go4Code Summer School. You have all been given a Raspberry Pi and a Sense HAT. During your three days at UCL you will be programming your Raspberry Pi in *python* to control the Sense HAT.
 
@@ -30,7 +31,7 @@ You will all have the following equipment in front of you:
 * Pre-programmed micro SD card
 * USB memory stick
 
-<p align ="center", style "line-height:1"><img src = "./media/equipment.jpg"></img> The Equipment for the Summer School </p>
+<p align ="center", style = "line-height:1"><img src = "./media/equipment.jpg"></img> The Equipment for the Summer School </p>
 
 **Note: The Raspberry Pi and the Sense HAT have been pre-assembled and the micro SD card has already been inserted in the Raspberry Pi.**
 
