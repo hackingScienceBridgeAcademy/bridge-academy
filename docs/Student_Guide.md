@@ -1,15 +1,13 @@
 <h1>
 <p align = "center" style = "line-height:1.3" >
 
-<img src="./media/orange_banner.png" width = "100%" ></img></p>
-
-<p style = "text-align: center; line-height:1.3; font-size: 30px; font-family:Courier">
-
-Go4Code Summer School<br>
-
-Student Guide
+<img src="./media/orange_banner.png" width = "100%" ></img>
 </p>
 </h1>
+
+<h2><p align = "center">Go4Code Summer School <br> <font size="3.5"> Student Guide </font> <br>  </p> </h2>
+
+
 
 Welcome to the UCL Go4Code Summer School. You have all been given a Raspberry Pi and a Sense HAT. During your three days at UCL you will be programming your Raspberry Pi in *python* to control the Sense HAT.
 
