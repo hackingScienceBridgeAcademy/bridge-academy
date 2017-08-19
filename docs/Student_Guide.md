@@ -29,7 +29,7 @@ You will all have the following equipment in front of you:
 * Pre-programmed micro SD card
 * USB memory stick
 
-<p align ="center", style = "line-height:1"><img src = "./media/equipment.jpg"></img> The Equipment for the Summer School </p>
+<p align ="center", style = "line-height:1"><img src = "./media/equipment.jpg"/>The Equipment for the Summer School </p>
 
 **Note: The Raspberry Pi and the Sense HAT have been pre-assembled and the micro SD card has already been inserted in the Raspberry Pi.**
 
