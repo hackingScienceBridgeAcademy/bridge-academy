@@ -1,7 +1,7 @@
 <h1>
 <p align = "center" style = "line-height:1.3" >
 
-<img src="./media/orange_banner.png" width = "100%" ></img>
+<img src="./media/orange_banner.png" width = "100%" />
 </p>
 </h1>
 
