@@ -3,11 +3,11 @@
 
 <img src="./media/orange_banner.png" width = "100%" ></img></p>
 
-<p align = "center" style = "line-height:1.3" >
+<p align = "center" style = "line-height:1.3; font-size: 30px; font-family:Courier">
 
-<font face = "Courier"> Go4Code Summer School</font><br>
+Go4Code Summer School<br>
 
-<font size = "5", face = "Courier"> Student Guide </font>
+Student Guide
 </p>
 </h1>
 
