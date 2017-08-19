@@ -1,4 +1,4 @@
-<h1><p align = "center", style = "line-height:1.3" > <img src="./media/orange_banner.png" width = "100%" /> <font face = "Courier"> Go4Code Summer School</font> <font size = "5", face = "Courier"> Student Guide  </p></font></h1>
+<h1><p align = "center", style = "line-height:1.3" > <img src="./media/orange_banner.png" width = "100%" ></img> <font face = "Courier"> Go4Code Summer School</font> <font size = "5", face = "Courier"> Student Guide  </p></font></h1>
 
 
 
@@ -83,3 +83,7 @@ Examples of more projects you can do with your Pi's:
 * Music Player
 
 The skills that you will learn over the next couple of days are used by programmers all over the world! This is just the start of your coding adventures.
+
+**Author:** Laura Hargreaves & Ishan Khurana <br/>
+**Date:**   August 15, 2017 <br/>
+**Copyright (c)** 2017 Go4Code All Rights Reserved.
