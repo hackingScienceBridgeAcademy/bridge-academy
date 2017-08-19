@@ -1,3 +1,4 @@
+
 <h1><p align = "center">   <img src="./media/Raspberry_Pi_Logo.png" width="27" height="34" />  Raspberry Pi Sense HAT <br> <font size="3.5"> Go4Code </font> </p> </h1>
 
 # Introduction
@@ -31,6 +32,7 @@ The Sense HAT is an add-on board for the Raspberry Pi. It gives us the ability t
 These simple features allow us to do countless things with the Sense HAT, we have come up with a few projects that you will do. To let you really express your imagination and creativity, you get to keep the Sense HAT and Raspberry Pi so you can come up with your own gadgets!  
 
 ## The Assembly
+
 ***This section is optional. You may skip to the next section***
 
 The Sense HAT is just one type of HAT (Hardware Attached on Top) that you can get for your Raspberry Pi. Some more examples of HATs are listed [here](https://shop.pimoroni.com/collections/hats).

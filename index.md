@@ -14,21 +14,24 @@ read through this and do all the exercises before attempting any projects.
 This contains descriptions of some functions that will be useful to you
 when you're working with your projects.
 
+#### [Running Files on the Sense HAT](./docs/Running-Files-On-the-Sense-HAT.md)
+
+This contains instructions on how to transfer code from the desktop to the Sense HAT and run it.
+
 ## Projects
 
-### Hard
 
-#### [Countdown clock](./docs/countdown_clock_project.md)
+### Easy
 
-In this project you will be creating a simple countdown clock. The user should
-be able to set a number from 0 to 99, and the clock will tick from that number
-down to 0.
+#### [Magic Eight Ball](./docs/magic_eight_ball.md)
 
-#### [Pong](./docs/pong_project.md)
+In this project we'll be creating a *Magic 8 ball* using the Sense HAT. If you've never seen one
+before, you might remember it from Toy Story: <a href="https://www.youtube.com/watch?v=mFOracFClBg">https://www.youtube.com/watch?v=mFOracFClBg</a>. It's a very simple toy: You ask it a question, you shake the ball (or Sense HAT),
+and it'll give you an answer.
 
-In this project you'll be creating the classic game _Pong_ on the Sense HAT.
-*Note: This project is very hard, so you might want to attempt an easier project
-before doing this one.*
+#### [Draw a picture](./docs/draw_a_picture_project.md)
+
+In this project you'll learn how to draw a picture on the Sense HAT.
 
 ### Medium
 
@@ -49,17 +52,20 @@ project.
 
 In this project, you'll recreate the classic game *Snake*.
 
-### Easy
+### Hard
 
-#### [Magic Eight Ball](./docs/magic_eight_ball.md)
+#### [Countdown clock](./docs/countdown_clock_project.md)
 
-In this project we'll be creating a *Magic 8 ball* using the Sense HAT. If you've never seen one
-before, you might remember it from Toy Story: <a href="https://www.youtube.com/watch?v=mFOracFClBg">https://www.youtube.com/watch?v=mFOracFClBg</a>. It's a very simple toy: You ask it a question, you shake the ball (or Sense HAT),
-and it'll give you an answer.
+In this project you will be creating a simple countdown clock. The user should
+be able to set a number from 0 to 99, and the clock will tick from that number
+down to 0.
 
-#### [Draw a picture](./docs/draw_a_picture_project.md)
+#### [Pong](./docs/pong_project.md)
 
-In this project you'll learn how to draw a picture on the Sense HAT.
+In this project you'll be creating the classic game _Pong_ on the Sense HAT.
+*Note: This project is very hard, so you might want to attempt an easier project
+before doing this one.*
+
 
 
 ### Create your own project
