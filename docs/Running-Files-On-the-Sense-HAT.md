@@ -1,4 +1,4 @@
-# <p align = "center">   <img src="./media/Raspberry_Pi_Logo.png" width="27" height="34" /> Using the Sense HAT <br> <font size="3.5"> Go4Code </font> <br>  </p>
+<h1><p align = "center"><img src="./media/Raspberry_Pi_Logo.png" width="27" height="34" /> Using the Sense HAT <br> <font size="3.5"> Go4Code </font> <br>  </p> </h1>
 
 Your Sense HATs have been pre-programmed by the Go4Code team to do some clever things in the background so that that you can easily run python files without needing to plug the Raspberry Pi into a TV or monitor. All you need to do is put a python file with your code on a USB stick and plug it into the Raspberry Pi!
 
