@@ -1,4 +1,12 @@
-<h1><p align = "center", style = "line-height:1.3" > <img src="./media/orange_banner.png" width = "100%" ></img> <font face = "Courier"> Go4Code Summer School</font> <font size = "5", face = "Courier"> Student Guide  </p></font></h1>
+<h1>
+<p align = "center" style = "line-height:1.3" >
+
+<img src="./media/orange_banner.png" width = "100%" ></img>
+
+<font face = "Courier"> Go4Code Summer School</font>
+
+<font size = "5", face = "Courier"> Student Guide </font></p>
+</h1>
 
 
 
@@ -22,7 +30,7 @@ You will all have the following equipment in front of you:
 * Pre-programmed micro SD card
 * USB memory stick
 
-<p align ="center", style "line-height:1">  <img src = "./media/equipment.jpg"> </img> The Equipment for the Summer School </p>
+<p align ="center", style "line-height:1"><img src = "./media/equipment.jpg"></img> The Equipment for the Summer School </p>
 
 **Note: The Raspberry Pi and the Sense HAT have been pre-assembled and the micro SD card has already been inserted in the Raspberry Pi.**
 
