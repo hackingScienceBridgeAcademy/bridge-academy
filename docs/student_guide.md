@@ -45,8 +45,6 @@ In case it is not already open, the URL for the website is:
 
 <a href = "https://codingsummerschool.github.io/codingsummerschool"> codingsummerschool.github.io/codingsummerschool </a>
 
-<insert screen shot>
-
 To start with you will go through the <a href="https://codingsummerschool.github.io/codingsummerschool/docs/SenseHatIntro.html">Introduction to Python and Sense HAT page</a>. This will introduce you to the features of the Sense HAT and important coding concepts that you will be required to use in your projects.
 
 Once you have made your way through this tutorial you will have the basic knowledge to start on your own Sense HAT project!
