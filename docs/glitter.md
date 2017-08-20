@@ -126,7 +126,9 @@ Let's try making a simple image first. We're going to make a plus sign as shown 
 
 <p align="center"><iframe src="https://trinket.io/embed/python/468d18caea?outputOnly=true&runOption=run" width="100%" height="500" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator  </p>
 
-<p align="center"> To make that plus sign , we used the *set_pixels* function and a *list* called image as a drawing board to make the drawing.<br> **Exercise 1**: Change the values of the *list* in the Trinket below to make a plus sign:</p>
+To make that plus sign, we used the *set_pixels* function and a *list* called image as a drawing board to make the drawing.
+
+**Exercise 1**: Change the values of the *list* in the Trinket below to make a plus sign:
 
 <p align="center"><iframe src="https://trinket.io/embed/python/b36d6e09ae" width="100%" height="500" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator  </p>
 
