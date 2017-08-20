@@ -98,10 +98,10 @@ A lot of programming is just about knowing what information to store, and where
 to store it. For example, some very important information to store is the position
 how many seconds we should count.
 
-In this project we have three variables: *countdown*, *number_color* and
+In this project we have three variables: *countdown*, *number_colour* and
 *countdownMessage*. The names are pretty self-explanatory. *countdown* is how
-many seconds the clock should countdown for, *number_color* is which colour the
-numbers should be on the clock (right now it's black, so you probably change it!)
+many seconds the clock should count down for, *number_colour* is the colour
+of the numbers on the clock (right now it's black, so you should probably change it!)
 and *countdownMessage* is the message that should be shown when the clock has
 finished counting down.
 

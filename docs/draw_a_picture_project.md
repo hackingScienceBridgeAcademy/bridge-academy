@@ -37,8 +37,8 @@ You can find the skeleton code on Trinket, here:
 allow you to save the Trinket projects. Otherwise you have to copy the code on
 to your computer to save it.**
 
-On Trinket, you'll be able to test out your code on a *virtual* Sense HAT, before you try
-out your code on the real thing.
+On Trinket, you'll be able to test your code on a *virtual* Sense HAT, before you try
+your code on the real thing.
 
 As you might see, the skeleton code is split up into sections, divided by the headlines.
 For example:
@@ -87,8 +87,8 @@ Section 2 is where you'll actually be coding.
 
 Use your own imagination to draw a picture on the Sense HAT screen.
 
-The screen is composed f 8 *rows*, where each row has 8 pixels each. So in total
-we have _8*8_=64 pixels. We often refer to which *row* a pixel is at as its *y-coordinate*,
+The screen is composed of 8 *rows*, where each row has 8 pixels each. So in total
+we have ```8*8=64``` pixels. We often refer to which *row* a pixel is at as its *y-coordinate*,
 and which column is at as its *x-coordinate*.
 
 To draw a pixel, you should use the *sense.set_pixel*
@@ -109,9 +109,15 @@ in the function.
 The last three numbers in the function call decides which
 colour the pixel should be drawn in. They go in the order of *red*, *blue*,
 *green*. Where 255 is the maximum red/green/blueness, and 0 is the lowest.
-If this sounds, confusing, try playing around with the color values and try
-to get a hang of it. By mixing the red, blue and green colors you can get
-any of the other colors (for example, purple is blue mixed with red).
+
+If this sounds confusing try playing around with the colour values and try
+to get a hang of it. By mixing the red, blue and green colours you can get
+any of the other colours (for example, purple is blue mixed with red).
+
+```python
+# Draws a purple pixel
+sense.set_pixel(2, 2, 255, 0, 255)
+```
 
 After you're done, run the code, and your picture should appear on the
 screen!
@@ -134,11 +140,10 @@ You can discuss any ideas you have with a supervisor.
 If this is the first project you have attempted, you should come back to this after you've
 had your go at some other projects first.**
 
-As you might have seen in the example solution we linked to at the top of this
-document, we added an extra feature where the smiley-face would *blink* if you
-pressed the middle joystick button.
+In the example solution at the top of the document, you might've noticed that
+the smiley-face would *blink* if you hold in the middle joystick button.
 
-Although it's pretty difficult, you can try adding this feature yourself to
+Although it's fairly difficult, you can try adding this feature to
 your project. We'll give you the ingredients you'll need in order to make
 this happen, but the rest is for you to figure out.
 
@@ -168,8 +173,6 @@ value to True, like this:
     isBlinking = True
 ```
 
-when the user has pressed the button.
-
 Then, in the drawing part of the program, we have to use an *if*-statement to
 check if the program should draw the winking smiley-face, or the normal
 smiley-face.
@@ -182,5 +185,5 @@ of each loop, otherwise the drawings will overlap!
 ---
 
 **Author:** Lukas Kikuchi <br/>
-**Date:**   August 09, 2017 <br/>
+**Date:**   August 03, 2017 <br/>
 **Copyright (c)** 2017 Go4Code All Rights Reserved.

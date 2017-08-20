@@ -16,8 +16,9 @@ You can try an example solution of the project here:
 
 <iframe src="https://trinket.io/embed/python/08820f7aef?outputOnly=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-To get the answer, press the middle-joystick button (ENTER). In the version you
-will make, you have to shake the Sense HAT to get the answer. Unfortunately
+To get the answer, press the middle joystick button (ENTER on your keyboard).
+
+In the version you will make, you will shake the Sense HAT to get the answer. Unfortunately
 you can't shake the virtual Sense HAT on Trinket, so in the version above we
 used the joystick instead.
 
@@ -36,14 +37,14 @@ In programming, skeleton code means code that only has the basic elements of a
 program. It is up to you to fill in the rest!
 
 You can find the skeleton code on Trinket, here:
-<a href="https://goo.gl/bzqdNi" target="_blank">hhttps://goo.gl/bzqdNi</a>
+<a href="https://goo.gl/bzqdNi" target="_blank">https://goo.gl/bzqdNi</a>
 
 **If you can, you should also create and account and log in to Trinket. This will
 allow you to save the Trinket projects. Otherwise you have to copy the code on
 to your computer to save it.**
 
-On Trinket, you'll be able to test out your code on a *virtual* Sense HAT, before you try
-out your code on the real thing.
+On Trinket, you'll be able to test your code on a *virtual* Sense HAT, before you try
+your code on the real thing.
 
 As you might see, the skeleton code is split up into sections, divided by the headlines.
 For example:
@@ -149,9 +150,20 @@ while True:
 
 **This part is a bit complicated, so pay attention! Don't be afraid to ask a supervisor if you don't understand something.**
 
-To see if the user has shaken
-the Sense HAT, we'll have to use the *accelerometer* inside the device. The
-accelerometer basically tells us how fast the device has been accelerating.
+To see if the user has shaken the Sense HAT, we'll have to use the *accelerometer* inside the device. The
+accelerometer basically tells us how fast the device is accelerating.
+
+If you don't know what the word *acceleration* means, the next bit will give
+you a short lesson in physics.
+
+> **Acceleration:**<br>
+>  If *speed* is how fast
+> something is moving, *acceleration* is how fast the speed is changing. For example,
+> let's say you drop a ball from a cliff. At first, when you first drop the ball,
+> its speed is 0 (it's not moving). But due to gravity, it'll *accelerate* and
+> gain speed. By the time the ball has reached the ground, it's gained a lot of
+> speed.
+
 To get the information from the accelerator, use the following code:
 
 ```python
@@ -183,10 +195,10 @@ random_message = random.choice(answers)
 To then display the message stored in *random_message*, we use the functions
 *sense.show_message*. Check the *Function Reference* to see how to use it.
 
-This all seems complicated, but it's fairly straightforward. If something confuses
-you, ask a supervisor for some help.
+This might seem complicated, but it's fairly straightforward. If something confuses
+you, ask a supervisor for help.
 
-To break it down, what you need to is this:
+To break it down, what you need to do is this:
 
 - Get the accelerometer information.
 - Calculate *shake*, as shown above.

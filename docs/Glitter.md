@@ -1,4 +1,4 @@
-<h1><p align="center">   <img src="./media/Raspberry_Pi_Logo.png" width="27" height="34" />  Graphics on the Sense HAT <br> <font size="3.5"> Go4Code </font> </p> </h1>
+<h1><p align = "center">   <img src="./media/Raspberry_Pi_Logo.png" width="27" height="34" />  Graphics on the Sense HAT <br> <font size="3.5"> Go4Code </font> </p> </h1>
 
 # Project: Glitter Lights
 ***Difficulty: Easy***
@@ -87,7 +87,7 @@ image = [
 
 Let's try the code above in the Trinket. ***Read the comments for explanations!***
 
-<p align="center"><iframe src="https://trinket.io/embed/python/392802fe61" width="100%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator  </p>
+<p align = "center"><iframe src="https://trinket.io/embed/python/392802fe61" width="100%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator  </p>
 
 #### Making a picture
 The *set_pixels* function is actually really useful as it let's us make images really easily. The *list* essentially acts as a drawing board that resembles the LED matrix on the Sense HAT. For example if I take the 3rd element along in the first row and set that to yellow in the *list* it will set the 3rd pixel along in the first row to orange.
@@ -113,7 +113,7 @@ image = [
 Let's try it out in the Trinket below:
 
 
-<p align="center"><iframe src="https://trinket.io/embed/python/8f1b954cb4" width="100%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator  </p>
+<p align = "center"><iframe src="https://trinket.io/embed/python/8f1b954cb4" width="100%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator  </p>
 
 
 Great! So now that we can see how to use *lists* and the *set_pixels* function to set all the pixels at the same time. We can make some images!
@@ -124,17 +124,17 @@ Great! So now that we can see how to use *lists* and the *set_pixels* function t
 
 Let's try making a simple image first. We're going to make a plus sign as shown in the Trinket below:
 
-<p align="center"><iframe src="https://trinket.io/embed/python/468d18caea?outputOnly=true&runOption=run" width="100%" height="500" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator  </p>
+<p align = "center"><iframe src="https://trinket.io/embed/python/468d18caea?outputOnly=true&runOption=run" width="100%" height="500" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator  </p>
 
-<p align="center"> To make that plus sign , we used the *set_pixels* function and a *list* called image as a drawing board to make the drawing.<br> **Exercise 1**: Change the values of the *list* in the Trinket below to make a plus sign:<p>
+<p align = "center"> To make that plus sign , we used the *set_pixels* function and a *list* called image as a drawing board to make the drawing.<br> **Exercise 1**: Change the values of the *list* in the Trinket below to make a plus sign:<p>
 
-<p align="center"><iframe src="https://trinket.io/embed/python/b36d6e09ae" width="100%" height="500" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator  </p>
+<p align = "center"><iframe src="https://trinket.io/embed/python/b36d6e09ae" width="100%" height="500" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe> <br> Trinket Emulator  </p>
 
 #### The Raspberry Pi Logo
 
 We can add any colour to our *list*. We can also add no colour to a pixel, this would mean that pixel would be off!
 
-By setting one of the elements to *e = [0,0,0]* we can turn the corresponding pixel off. Using this and what you have just learned, we made a *list* that contains the image for the Raspberry Pi Logo.
+By setting one of the elements to *e = [0,0,0]* we can turn the corresponding pixel off. Using this and what you have just learnt, we made a *list* that contains the image for the Raspberry Pi Logo.
 
 ```python
 
@@ -179,7 +179,7 @@ sense.set_pixels(image)
 
 Try it in the Trinket Emulator below. Each time you run the code the shade of green will change.
 
-<p align="center"> <iframe src="https://trinket.io/embed/python/530bddf845" width="100%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe></p>
+<p align = "center"> <iframe src="https://trinket.io/embed/python/530bddf845" width="100%" height="600" frameborder="2" marginwidth="0" marginheight="0" allowfullscreen></iframe></p>
 
 
 #### Filling lists using Loops

@@ -40,8 +40,8 @@ You can find the skeleton code on Trinket, here:
 allow you to save the Trinket projects. Otherwise you have to copy the code on
 to your computer to save it.**
 
-On Trinket, you'll be able to test out your code on a *virtual* Sense HAT, before you try
-out your code on the real thing.
+On Trinket, you'll be able to test your code on a *virtual* Sense HAT, before you try
+your code on the real thing.
 
 As you might see, the skeleton code is split up into sections, divided by the headlines.
 For example:
@@ -95,7 +95,7 @@ The next part of the code (Sec. 1.2) creates some important *Objects* (don't wor
 if you're not sure what that means) that we'll use in the game code.
 
 Sec. 1.3 is where we set up the initial properties of the game is set up. Like
-the starting position of the ball, the color of the ball, the color of the wall,
+the starting position of the ball, the colour of the ball, the colour of the wall,
 the goal and the holes and so on. You'll need to edit these values later on in
 order to customize the game.
 
@@ -113,12 +113,12 @@ while True:
 
     #### 2.2 Draw the walls, holes, goals and the ball
 
-    #### 2.3 Make things happen
+    #### 2.3 Update the game
 
-    #### 2.4
+    #### 2.4 Check if the player has won or lost
 ```
 
-You'll be filling in each section with your own code. The most important thing to note is
+The most important thing to note about the code is the following:
 
 ```python
 while True:
@@ -151,21 +151,21 @@ number with the *y*-position. If you don't know what that means, the x-position
 is how many squares the ball is away from the left side of the screen, and the
 y-position is how many squares the ball is away from the top side of the screen.
 
-The rest of the lines in this section decides the colors of all the things in
-the game. Currently all the colors are set to black, so you'll definitely
-have to change them to something, although you can decide which colors yourself.
+The rest of the lines in this section decides the colours of all the things in
+the game. Currently all the colours are set to black, so you'll definitely
+have to change them to something, although you can decide which colours yourself.
 
-Colors in Python are not called "purple", "yellow" or "brown". Instead they are given
-by *three* numbers. The first number is how *red* the color is, the second number
+Colours in Python are not called "purple", "yellow" or "brown". Instead they are given
+by *three* numbers. The first number is how *red* the colour is, the second number
 is how *green* it is, and the third how *blue* it is. The value of the redness/greenness/blueness
 can be from 0 to 255 (where 255 is the maximum redness/greenness/blueness). For example
 to set the ball to be purple, we set it to be maximum red and maximum blue, like this:
 
 ```python
-game.ballColor = [255, 0, 255]
+game.ballColour = [255, 0, 255]
 ```
 
-Confusing? Try setting the colors to different things later to get the hang of it.
+Confusing? Try setting the colours to different things later to get the hang of it.
 
 #### (Sec. 2.2) Draw the walls, the holes, the goals and the ball
 
@@ -179,13 +179,16 @@ You can replace *red*, *green* and *blue* with any numbers that you like. You sh
 add this code to the start of the section.
 
 The next thing is to add code that will draw the walls, the holes and the goal
-blocks. In order to do this, you simply have to add the following lines of code:
+blocks. There's already some code that will do this for you, all you need to do is
+to add the following lines of code to the section:
 
 ```python
 game.drawWalls()
 game.drawHoles()
 game.drawGoals()
 ```
+
+These functions will draw all the walls, the holes and the goals on the screen.
 
 The final thing is to draw the ball. To do this you use the function:
 
@@ -194,15 +197,15 @@ sense.set_pixel(x, y, red, green, blue)
 ```
 
 Where *x* and *y* is the position of the ball, and *red*, *green* and *blue* the
-color of the ball. You can get the *x* and *y* positions of the ball using:
+colour of the ball. You can get the *x* and *y* positions of the ball using:
 
 ```python
 game.getBallX()
 game.getBallY()
 ```
 
-You'll have to use these functions within the *sense.set_pixel*. The color of the
-ball is in the *game.ballColor* variable. For more information about how the function
+You'll have to use these functions within the *sense.set_pixel*. The colour of the
+ball is in the *game.ballColour* variable. For more information about how the function
 works, you can check the *Function Reference* document.
 
 After you've added all of this, all the stuff should be drawn on the scren if you
@@ -224,19 +227,25 @@ game.moveBallHorizontally(20)
 game.moveBallVertically(40)
 ```
 
-To get how much the Sense HAT is tilted horizontally, use:
+The technical terms for these kinds of *"tilts"* are *yaw*, *pitch* and
+*roll*. Look at the image below to get an idea for how they work:
+
+<img src="./media/orientation.png">
+
+To get how much the Sense HAT is tilted horizontally ("pitch"), use:
 
 ```python
 sense.get_orientation()["pitch"]
 ```
 
-To get how much the Sense HAT is tilted vertically, use:
+To get how much the Sense HAT is tilted vertically ("roll"), use:
 
 ```python
 sense.get_orientation()["roll"]
 ```
 
-If you run the game now, the ball should move across the screen as you tilt the
+After you've written this code correctly, run the game.
+The ball should move across the screen as you tilt the
 Sense HAT.
 
 #### (Sec. 1.4) Create the maze!

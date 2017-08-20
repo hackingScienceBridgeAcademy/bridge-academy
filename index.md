@@ -4,11 +4,11 @@
 
 Welcome! This is the main page that contains all the resources you'll use during this summer school.
 
-#### [Student Guide](./docs/Student_Guide.md)
+#### [Student Guide](./docs/student_guide.md)
 
 This is the printed welcome document that you were all given.
 
-#### [Introduction to Python and the Sense HAT](./docs/SenseHatIntro.md)
+#### [Introduction to Python and the Sense HAT](./docs/sense_hat_intro.md)
 
 Introduces you to the basics of Python and using the Sense HAT. You should
 read through this and do all the exercises before attempting any projects.
@@ -18,7 +18,7 @@ read through this and do all the exercises before attempting any projects.
 This contains descriptions of some functions that will be useful to you
 when you're working with your projects.
 
-#### [Running Files on the Sense HAT](./docs/Running-Files-On-the-Sense-HAT.md)
+#### [Running Files on the Sense HAT](./docs/running_files_on_the_sense_hat.md)
 
 This contains instructions on how to transfer code from the desktop to the Sense HAT and run it.
 

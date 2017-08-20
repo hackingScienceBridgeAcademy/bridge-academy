@@ -153,8 +153,9 @@ To get random number between 1 and 10:
 
     random.randint(1, 10)
 
----
-Author: Lukas Kikuchi
-Date:   August 09, 2017
-Copyright (c) 2017 Go4Code All Rights Reserved.
+
+    ---
+**Author:** Lukas Kikuchi <br/>
+**Date:**   August 09, 2017 <br/>
+**Copyright (c)** 2017 Go4Code All Rights Reserved.
 ---

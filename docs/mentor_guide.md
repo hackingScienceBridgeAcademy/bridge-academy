@@ -4,14 +4,52 @@ Go4Code Coding Summer School 22-24 August 2017
 This sheet will guide you through what you should expect on the day and some possible troubleshooting answers.
 
 ## Timetable
-| Day 1            |  Day 2             | Day 3            |
-| -----------|-------------  ----  | ------------     |
-| 10:00 - 11:00 Arrivals| 9:45 - 12:30 Project Work| 09:45 - 12:15 Project Work           |
-| 11:00 - 11:45 Welcome Speeches and meet the ambassadors| 12:30 - 13:30 Lunch |12:15 - 12:30 Group Portrait|
-| 12:30 - 13:00 Ice breakers|13:30 - 16:30 Project Work   | 12:30 - 13:15 Lunch with parents               |
-|13:00 - 14:00 Introduction Lecture by Ishan Khurana|16:15 Students depart  |13:15 - 14:00 Science Fair|
-|14:00- 16:00 Project Work|  |14:00 - 15:00 Panel Discussion with Jenny Sivapalan (Guardian), Jay  (UCL ExoPlanets), Simon Jolly (UCL Proton Beam Therapy)|
-|16:15 Students depart||15:00-15:30 Evaluation and Certificates|
+
+<table>
+
+<tr>
+  <td> **Day 1** </td>
+  <td> **Day 2** </td>
+  <td> **Day 3** </td>
+</tr>
+
+<tr>
+  <td>10:00 - 11:00 Arrivals</td>
+  <td>09:45 - 12:30 Project Work</td>
+  <td>09:45 - 12:15 Project Work</td>
+</tr>
+
+<tr>
+  <td>11:00 - 11:45 Welcome Speeches and meet the ambassadors</td>
+  <td>12:30 - 13:30 Lunch</td>
+  <td>12:15 - 12:30 Group Portrait</td>
+</tr>
+
+<tr>
+  <td>12:30 - 13:00 Ice breakers</td>
+  <td>13:30 - 16:30 Project Work </td>
+  <td>12:30 - 13:15 Lunch with parents</td>
+</tr>
+
+<tr>
+  <td>13:00 - 14:00 Introduction Lecture by Ishan Khurana</td>
+  <td>16:15 Students depart</td>
+  <td>13:15 - 14:00 Science Fair</td>
+</tr>
+
+<tr>
+  <td>14:00- 16:00 Project Work</td>
+  <td></td>
+  <td>14:00 - 15:00 Panel Discussion with Jenny Sivapalan (Guardian), Jay  (UCL ExoPlanets), Simon Jolly (UCL Proton Beam Therapy)</td>
+</tr>
+
+<tr>
+  <td>16:15 Students depart</td>
+  <td></td>
+  <td>15:00-15:30 Evaluation and Certificates</td>
+</tr>
+
+</table>
 
 ## Equipment
 Each student will have:
@@ -31,7 +69,8 @@ Each academic lead will have their own equipment so they can demonstrate the pro
 * Each academic lead will be look after a group of 5-6 students
 * Programming language - Python 3
 * Projects are available on: [Coding Summer School Webpage](https://codingsummerschool.github.io/codingsummerschool)
-* Full solutions are available at: *insert link to full solutions*
+* Full solutions are available at: [Solutions](https://codingsummerschool.github.io/codingsummerschool/teachers/trinket_links.html)
+  * Solutions are labelled *"Solution (with code)"*
 * Projects are split into difficulties: easy, medium and hard
 
 Students will be writing scripts on the Trinket Emulator to develop and debug using the skeleton code provided. To run code on the RPi they must create a python file by copying the code in *main.py* file in Trinket to a new file in IDLE and save this file as a *.py* file. The names mustn't contain spaces.
@@ -88,4 +127,4 @@ Here is a list of potential problems that could occur:
 * Encourage students to try things out by themselves
 
 
-* Please either text Ishan (+44 7528692298) or call Laura (+44 7891138825) if you encounter any difficulties
+* Please either *text* Ishan (+44 7528692298) or *call* Laura (+44 7891138825) if you encounter any difficulties

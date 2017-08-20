@@ -21,13 +21,13 @@ to both the skeleton codes as well as the solutions.
 - <a href="https://goo.gl/mBxSCg">**Skeleton**<a/>   
 
 ### Glitter
-The shake function cannot be tested on Trinket. 
+The shake function cannot be tested on Trinket.
 
 - <a href="https://trinket.io/python/4de27e6ba8">**Solution (with bonus)**<a/>
 - <a href="https://trinket.io/python/77b6a432af">**Skeleton**<a/>
 
 
-### Dice 
+### Dice
 The shake feature cannot be tested on Trinket so check if the student's code is correct and help them test it on their pi.
 - <a href = "https://trinket.io/python/75be65eb17"> **Solution**</a>
 - <a href = "https://trinket.io/python/cab6a53e6d"> **Skeleton**</a>

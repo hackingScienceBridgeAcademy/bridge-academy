@@ -39,8 +39,8 @@ You can find the skeleton code on Trinket, here:
 allow you to save the Trinket projects. Otherwise you have to copy the code on
 to your computer to save it.**
 
-On Trinket, you'll be able to test out your code on a *virtual* Sense HAT, before you try
-out your code on the real thing.
+On Trinket, you'll be able to test your code on a *virtual* Sense HAT, before you try
+your code on the real thing.
 
 As you might see, the skeleton code is split up into sections, divided by the headlines.
 For example:
@@ -85,7 +85,7 @@ sense.show_message("PONG!") # Display an intro message for the viewer.
 
 Sec. 1.3 is where we set up the initial properties of the game,
 like the position of the ball, the positions of the player and the computer,
-the color that the should drawn in, and so on. This is the first part of the skeleton
+the colour that the should drawn in, and so on. This is the first part of the skeleton
 code that you will be writing in.
 
 Sec. 2 is the part where you'll get your hands dirty with some real python game
@@ -149,9 +149,9 @@ side of the screen, and player 2 is on the right.
 
 If you look at the values in the skeleton code, you'll notice that they're all set
 to zero. You'll have to think of some more appropriate values to set them to! For the
-colors of the players and the ball, change them to whatever you want them to look like.
-If you leave the colors like they are, you won't see them on the screen, as they'll
-be colored black!
+colours of the players and the ball, change them to whatever you want them to look like.
+If you leave the colours like they are, you won't see them on the screen, as they'll
+be coloured black!
 
 By reading the comments of the variables, you can figure out what they mean
 (if you don't, ask a supervisor!). There are two variables that might look
@@ -182,8 +182,8 @@ These sections are very straightforward. Use the *sense.set_pixel* and the *draw
 functions to draw the players and the ball on the screen. Check the *Function reference* document
 to see how you use these functions.
 
-The position of the ball is given by *pong.ballX* and *pong.ballY*. The color of the ball
-is in *pong.ballColor*. Since the ball is only one pixel, you should *sense.set_pixel*.
+The position of the ball is given by *pong.ballX* and *pong.ballY*. The colour of the ball
+is in *pong.ballColour*. Since the ball is only one pixel, you should *sense.set_pixel*.
 
 Similarly, you should use the *drawVerticalLine* function to draw the player1 and player2
 paddles. Player1 should be on the left side of the screen, so its x-coordinate should be

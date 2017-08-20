@@ -34,8 +34,8 @@ You can find the skeleton code on Trinket, here:
 allow you to save the Trinket projects. Otherwise you have to copy the code on
 to your computer to save it.**
 
-On Trinket, you'll be able to test out your code on a *virtual* Sense HAT, before you try
-out your code on the real thing.
+On Trinket, you'll be able to test your code on a *virtual* Sense HAT, before you try
+your code on the real thing.
 
 As you might see, the skeleton code is split up into sections, divided by the headlines.
 For example:
@@ -82,44 +82,43 @@ Sec. 2 is where all the main coding will take place.
 Sec. 2.1 is where we'll write code that controls the *brush*, that places paint
 on the screen.
 
-Sec. 2.2 is where we'll write code that changes the color of the brush.
+Sec. 2.2 is where we'll write code that changes the colour of the brush.
 
 ---
 
-#
+
 ### Writing the code
 
 ##### (Sec. 1.3) Set up the variables
 
-In this section we have some definitions of variables that we'll use in the code
-later on.
+In this section we will define some variables which we will use later on.
 
 The starting position of the paint brush is in the variables *cursorx* and *cursory*.
 
-The possible paint brush colours are stored in the list *colors*. Your first job
+The possible paint brush colours are stored in the list *colours*. Your first job
 will be to add some colours to this list. As you might remember, in programming
-a color is usually represented as *three* numbers *[r, g, b]*. Where the first number
+a colour is usually represented as *three* numbers *[r, g, b]*. Where the first number
 is how red the colour is, the second how green it is, the third how blue it is.
 For example, to add the colours red, green and blue to the available brush colours:
 
 ```python
-colors = [
+colours = [
       [255, 0, 0],
       [0, 255, 0]
       [0, 0, 255]
     ]
 ```
 
-The final variable is *currentColor*. This variable is a bit trickier to understand.
-currentColor is a number that decides which color the paint brush is currently
-drawing. For example, if we set the *colors* list to what was shown above:
+The final variable is *currentColour*. This variable is a bit trickier to understand.
+currentColour is a number that decides which colour the paint brush is currently
+drawing. For example, if we set the *colours* list to what was shown above:
 
-- *currentColor = 0* would mean the brush is red.
-- *currentColor = 1* would mean the brush is green.
-- *currentColor = 2* would mean the brush is blue.
+- *currentColour = 0* would mean the brush is red.
+- *currentColour = 1* would mean the brush is green.
+- *currentColour = 2* would mean the brush is blue.
 
-Later on we'll let the user change the brush color by shaking the Sense HAT,
-this will be achieved by randomly changing the value of *currentColor*.
+Later on we'll let the user change the brush colour by shaking the Sense HAT,
+this will be achieved by randomly changing the value of *currentColour*.
 
 ##### (Sec. 2) Main program code
 
@@ -140,7 +139,7 @@ while True:
     # with a tab at the start of the line.
 ```
 
-##### (Sec 2.1) Control the paint cursor and place colors on the screen
+##### (Sec 2.1) Control the paint cursor and place colours on the screen
 
 Inside the while-loop, you should write the following:
 
@@ -164,11 +163,11 @@ for event in sense.stick.get_events():
             # Fill in with your own code
 ```
 
-This code will check if the user has pressed either the *up*, *down*,*left*, *right* or the
-*middle* button on the joystick. Never mind the complicated structure, try to look
-at the code and figure out how to use it.
+This code will check if the user has pressed the *up*, *down*,*left*, *right* or the
+*middle* buttons on the joystick. Don't mind the complicated structure of the code above,
+try to figure out how to use the code by looking at it.
 
-Inside the code you find the comments *# Fill in with your own code*. This is where
+Inside the *if*-statements ou'll find the comments *# Fill in with your own code*. This is where
 you should write your code.
 
 If the user presses *up*, *down*,*left* or *right* on the joystick, the variables
@@ -181,15 +180,15 @@ using further _if_-statements.*
 
 Finally, if the user presses the *middle* button, the brush should paint a pixel
 at the position of the brush. Remember that the available brush colours are
-in the variable *colors*, and the current brush colour is given by *currentColor*.
-So you can get the current color, and then draw it on the screen, using:
+in the variable *colours*, and the current brush colour is given by *currentColour*.
+So you can get the current colour, and then draw it on the screen, using:
 
 ```python
-c = colors[currentColor]
+c = colours[currentColour]
 sense.set_pixel(cursorx, cursory, c[0], c[1], c[2])
 ```
 
-#### 2.2 Change color by shaking
+#### 2.2 Change colour by shaking
 
 **This part is a bit complicated, so pay attention! Don't be afraid to ask a supervisor if you don't understand something.**
 
@@ -217,18 +216,18 @@ We have stored *x times x plus y times y plus z times z* into the variable *shak
 We're going to say that if *shake* is *larger* than *5*, the Sense HAT has been shaken. To do this, you're going to have to use an *if*-statement.
 
 If you have detected that the Sense HAT has been shaken (in other words, if
-*shake* is larger than 5) you want to randomly change the current brush color.
+*shake* is larger than 5) you want to randomly change the current brush colour.
 
-Remember that the current brush colour is given by *currentColor*. We can generate random numbers using the function *random.randint*. You can read about in the *Function Reference* document. If we have 5 different colours to choose from, we should randomly assign *currentColor*
+Remember that the current brush colour is given by *currentColour*. We can generate random numbers using the function *random.randint*. You can read about in the *Function Reference* document. If we have 5 different colours to choose from, we should randomly assign *currentColour*
 with a number from 0 to 4 (in Python, we usually start counting from 0, rather
 than from 1).
 
 To get the length of a list (like *colours*), you can use the *len*
-function. You can use this to generate a new brush color every time the user
+function. You can use this to generate a new brush colour every time the user
 has shaken the Sense HAT:
 
 ```python
-currentColor = random.randint(0, len(colors) - 1)
+currentColour = random.randint(0, len(colours) - 1)
 ```
 
 #### Finished!

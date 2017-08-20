@@ -32,9 +32,8 @@ You can find the skeleton code on Trinket, here:
 allow you to save the Trinket projects. Otherwise you have to copy the code on
 to your computer to save it.**
 
-
-On Trinket, you'll be able to test out your code on a *virtual* Sense HAT, before you try
-out your code on the real thing.
+On Trinket, you'll be able to test your code on a *virtual* Sense HAT, before you try
+your code on the real thing.
 
 As you might see, the skeleton code is split up into sections, divided by the headlines.
 For example:
@@ -92,15 +91,6 @@ First let's break down the problem by focussing on all the features that the boa
 
 Think about these and list them out below as this will help you plan out your code.
 
-    -
-
-    -
-
-    -  
-
-    -
-
-    -
 
 ***If you are unsure ask a supervisor.***
 
@@ -135,30 +125,33 @@ Set the variable *board_colour* to the colour you want the board to be. The next
 
 In this section we add snakes to the board using the *addSnake()* function on the *game* object. To add a snake onto the board, we must specify the position of the snakes head and the position of the snakes tail. But how do we specify position on the Sense Hat?
 
-###### Specifying Position
+###### Specifying Position (Reminder)
 ***If you know how position and coordinates work on the SenseHat, you might want to skip this section***
 
 In programming, we specify positions using coordinates. That might sound complicated but it is actually really easy and useful. The image below illustrates coordinates on the SenseHat.
 
 
-<div style ="text-align:center"><img src="../../Media/coordinates.png "></img></div>
-#  
+<p align = "center"><img src="../../Media/coordinates.png "></img><br> coordinates on the SenseHat <br></p>
+
 
 The *x* coordinate specifies how many squares along horizontally we mean and the *y* coordinate specifies how many squares vertically down we mean. We can use these coordinates to set individual pixels to a particular colour.
 
-For example, if I wanted to set the third pixel along and 4th pixel down to green, like in the image below:
+For example, if I wanted to set the third pixel along and 4th pixel down to green, I would use the following code:
 
-<div style ="text-align:center"><img src="../../Media/greenPixel.png "></img></div>
-
-I would use the following code:
 ```python
-
 green = [0,255,0] #Defining the colour green in RGB format
 
 ###Remember that in programming we count from zero!
 sense.set_pixel(2,3,green) #Set the third pixel along and 4th pixel down to green
 
 ```
+
+
+<br>
+Try it in the Trinket below:
+
+<p align = "center"><iframe src="https://trinket.io/embed/python/0574379d4f" width="90%" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br> Trinket Emulator </p>
+
 
 In the *set_pixel()* function, we first specify how many pixels along we mean and then how many pixels down we mean. In coordinate form this would be written like this: *(2,3)* where the first number, *2*, is the x position and the second number *3*, is the y position.
 

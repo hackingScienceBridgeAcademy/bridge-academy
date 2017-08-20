@@ -1,4 +1,11 @@
-<h1><p align = "center", style = "line-height:1.3" > <img src="./media/orange_banner.png" width = "100%" /> <font face = "Courier"> Go4Code Summer School</font> <font size = "5", face = "Courier"> Student Guide  <p></h1>
+<h1>
+<p align = "center" style = "line-height:1.3" >
+
+<img src="./media/orange_banner.png" width = "100%" />
+</p>
+</h1>
+
+<h2><p align = "center">Go4Code Summer School <br> <font size="3.5"> Student Guide </font> <br>  </p> </h2>
 
 
 
@@ -22,7 +29,7 @@ You will all have the following equipment in front of you:
 * Pre-programmed micro SD card
 * USB memory stick
 
-<p align ="center", style "line-height:1">  <img src = "./media/equipment.jpg"> </img> The Equipment for the Summer School <p>
+<p align ="center"> <img src="./media/equipment.jpg"/> The Equipment for the Summer School </p>
 
 **Note: The Raspberry Pi and the Sense HAT have been pre-assembled and the micro SD card has already been inserted in the Raspberry Pi.**
 
@@ -40,7 +47,7 @@ In case it is not already open, the URL for the website is:
 
 <insert screen shot>
 
-To start with you will go through the [Introduction to Python and Sense HAT page](https://codingsummerschool.github.io/codingsummerschool/docs/SenseHatIntro.html). This will introduce you to the features of the Sense HAT and important coding concepts that you will be required to use in your projects.
+To start with you will go through the <a href="https://codingsummerschool.github.io/codingsummerschool/docs/SenseHatIntro.html">Introduction to Python and Sense HAT page</a>. This will introduce you to the features of the Sense HAT and important coding concepts that you will be required to use in your projects.
 
 Once you have made your way through this tutorial you will have the basic knowledge to start on your own Sense HAT project!
 
@@ -57,7 +64,7 @@ Once you have selected a project, discuss it with your supervisor, and ask them 
 
 You will be developing your code on the Trinket Emulator on the desktop and then transferring your code to the Raspberry Pi via the USB stick provided.
 
-The instructions on how to do this are in the [Running Files on the Sense HAT](https://codingsummerschool.github.io/codingsummerschool/docs/Running-Files-On-the-Sense-HAT.html).
+The instructions on how to do this are in the <a href="https://codingsummerschool.github.io/codingsummerschool/docs/Running-Files-On-the-Sense-HAT.html"> Running Files on the Sense HAT </a>.
 
 Programing is about creativity. So feel free to get creative and add your own twist onto the suggested projects. If you have completed a few of the ones we have prepared and you have an idea that you want to build, you can create you own project! Ask you supervisor to help you with this.
 
@@ -83,3 +90,7 @@ Examples of more projects you can do with your Pi's:
 * Music Player
 
 The skills that you will learn over the next couple of days are used by programmers all over the world! This is just the start of your coding adventures.
+
+**Author:** Laura Hargreaves & Ishan Khurana <br/>
+**Date:**   August 15, 2017 <br/>
+**Copyright (c)** 2017 Go4Code All Rights Reserved.

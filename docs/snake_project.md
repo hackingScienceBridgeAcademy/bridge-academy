@@ -36,8 +36,8 @@ You can find the skeleton code on Trinket, here:
 allow you to save the Trinket projects. Otherwise you have to copy the code on
 to your computer to save it.**
 
-On Trinket, you'll be able to test out your code on a *virtual* Sense HAT, before you try
-out your code on the real thing.
+On Trinket, you'll be able to test your code on a *virtual* Sense HAT, before you try
+your code on the real thing.
 
 As you might see, the skeleton code is split up into sections, divided by the headlines.
 For example:
@@ -126,16 +126,16 @@ snake = Snake([3,3])
 creates the snake *object* that we see on the screen. The two numbers you see is also
 the starting position of the snake.
 
-The final two variables are the colors that we will draw the snake and the
+The final two variables are the colours that we will draw the snake and the
 apple in
 
 ```python
-snakeColor = [0, 255, 0] # Color of the snake
-appleColor = [255, 0, 0] # Color of the apple
+snakeColour = [0, 255, 0] # Colour of the snake
+appleColour = [255, 0, 0] # Colour of the apple
 ```
 
-Colors in Python are not called "purple", "yellow" or "brown". Instead they are determined
-by *three* numbers. The first number is how *red* the color is, the second number
+Colours in Python are not called "purple", "yellow" or "brown". Instead they are determined
+by *three* numbers. The first number is how *red* the colour is, the second number
 is how *green* it is, and the third how *blue* it is. We've currently set
 the snake to be green, and the apple to be red, but feel free to change that!
 
@@ -198,8 +198,8 @@ If you're having trouble understanding how this works, ask a supervisor about it
 
 Now that we've explained how the snake's body is stored in a list, we can go on
 to explain how to draw the body. As we mentioned earlier, the snake's body is
-kept track of behind-the-scenes. So all you need to do is to call a function
-that we've made that returns the snake's body.
+kept track by code that we've already pre-written. So all you need to do is to call a function
+that we've made that *returns* the snake's body.
 
 ```python
 snake_body = snake.get_body() # Gets the body of the snake, containing all the positions.
@@ -207,7 +207,7 @@ snake_body = snake.get_body() # Gets the body of the snake, containing all the p
 
 Now that we have a list of all the points that the snake consists of, we can start
 drawing it. We're going to do this using the *for*-loop you learned about earlier.
-We can use a *for*-loop to go through each element in a list in order.  For example,
+We can use a *for*-loop to go through each element in a list in order. For example,
 the following code
 
 ```python
@@ -228,14 +228,14 @@ Will print out:
 
 Now instead of *printing* each body part, we want to *draw* it. We can do
 this using the *sense.set_pixel* function. Read about it in the *Function
-Reference*, and use it to draw the snake! Remember that the color of the snake
-is stored in the *snakeColor* variable.
+Reference*, and use it to draw the snake! Remember that the colour of the snake
+is stored in the *snakeColour* variable.
 
 *Draw the apple*
 
 This step is much simpler. Use the *sense.set_pixel* pixel to draw the apple on the
-screen. The position of the apple is in the *applePosition* variable, and the color
-is in *appleColor*.
+screen. The position of the apple is in the *applePosition* variable, and the colour
+is in *appleColour*.
 
 *Try running the game*
 
@@ -266,7 +266,9 @@ wait(0.2)
 ```
 
 The number is how long the delay should be, so you can change it if you'd like
-the game to go faster or slower. Experiment!
+the game to go faster or slower. Experiment! Try running the game with different
+waiting times.
+
 
 ##### (Sec. 2.1) Let the user control the snake
 
@@ -310,6 +312,9 @@ snake.turn_right() # Turns the snake to the right
 You can use these functions along with the code provided above to allow the
 user to control the snake.
 
+After you've written the code in this section, try running it. If it's
+done correctly, you should be able to control the snake.
+
 ##### (Sec. 2.4) Check if apple ate an apple
 
 If the *head* of the snake touches an apple, we want it to *eat* it and then grow
@@ -335,6 +340,9 @@ Inside the if-statement, we want to do two things:
 *snake.get_new_apple_position()* function:
 
   applePosition = snake.get_new_apple_position()
+
+Try running the code now. Every time the snake eats an apple, it should now
+grow.
 
 ##### (Sec. 2.5) Check if snake has collided with itself
 

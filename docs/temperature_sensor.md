@@ -142,13 +142,13 @@ The rest of the lines in this section decides the colors of all the things in
 the game. Currently all the colors are set to black, so you'll definitely
 have to change them to something, although you can decide which colors yourself.
 
-Colors in Python are not called "purple", "yellow" or "brown". Instead they are given
+Colours in Python are not called "purple", "yellow" or "brown". Instead they are given
 by *three* numbers. The first number is how *red* the color is, the second number
 is how *green* it is, and the third how *blue* it is. The value of the redness/greenness/blueness
 can be from 0 to 255 (where 255 is the maximum redness/greenness/blueness). For example
 to set the ball to be purple, we set it to be maximum red and maximum blue, like this:
 
-    game.ballColor = [255, 0, 255]
+    game.ballColour = [255, 0, 255]
 
 Confusing? Try setting the colors to different things later to get the hang of it.
 
@@ -181,7 +181,7 @@ color of the ball. You can get the *x* and *y* positions of the ball using:
     game.getBallY()
 
 You'll have to use these functions within the *sense.set_pixel*. The color of the
-ball is in the *game.ballColor* variable. For more information about how the function
+ball is in the *game.ballColour* variable. For more information about how the function
 works, you can check the *Function Reference* document.
 
 After you've added all of this, all the stuff should be drawn on the scren if you
