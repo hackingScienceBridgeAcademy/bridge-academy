@@ -44,6 +44,9 @@ In this project you'll learn how to make the glittery pattern that came on the s
 
 ### Medium
 
+#### [Dice](./docs/Dice.md)
+In this project you will turn the Raspberry Pi into dice that will show numbers from 1 to 6 when you shake it.
+
 #### [Paint](./docs/paint_project.md)
 
 In this project you'll create a simple program that allows you to paint on the
