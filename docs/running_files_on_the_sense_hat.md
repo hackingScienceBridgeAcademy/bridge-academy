@@ -33,20 +33,48 @@ Before we start, go to documents and create a folder called Go4Code. You should 
 
 Let's open the IDLE program on your computers. Click start and type IDLE in the search bar and press enter.
 
+<p align = "center">   <img src="./media/openidle.png" width="500"  /> <br>
+
+Opening IDLE
+
+ <br> </p>
+
 This will open up a window like this:
 
-<p align = "center">   <img src="./media/idle-shell.png" width="500"  /> <br>
+<p align = "center">   <img src="./media/idle.png" width="500"  /> <br>
 
 The Python Shell
 
  <br> </p>
 
-Click file -> new file. This should open up a window like the one below:
+Click **File -> New Window**. This should open up a window like the one below:
 
-Copy your code in here as shown in the images below:
+<p align = "center">   <img src="./media/idle3.png" width="500"  /> <br>
 
+Open new window
 
+ <br> </p>
+
+<p align = "center">   <img src="./media/idle2.png" width="500"  /> <br>
+
+New Window
+
+<br> </p>
+
+Now copy all your code from Trinket into the new IDLE window that opened.
 Now go to *File* and click *Save As* and save the file as test.py in . You can call your files anything really, as long as the names do not have spaces and end the with *.py* extension. This tells the computer that the file we have created is a python file.
+
+<p align = "center">   <img src="./media/idle4.png" width="500"  /> <br>
+
+Saving a new file
+
+<br> </p>
+
+<p align = "center">   <img src="./media/idle5.png" width="500"  /> <br>
+
+Enter the filename in the save-dialogue.
+
+<br> </p>
 
 
 ## Run Your Code on the Raspberry Pi
