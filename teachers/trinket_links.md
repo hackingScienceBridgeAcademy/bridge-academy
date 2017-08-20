@@ -3,22 +3,35 @@
 Here are all the solutions to the Trinket projects. There are links
 to both the skeleton codes as well as the solutions.
 
-#### Guide for Mentors
+### Guide for Mentors
 - <a href="../docs/MentorGuide.md"> **Guide**
 
-#### Countdown clock
+### Countdown clock
 
 - <a href="https://goo.gl/Uk54ox">**Solution (no code)**<a/>
 - <a href="https://goo.gl/gCq6BC">**Solution (with code)**<a/>
 - <a href="https://goo.gl/iPQjfU">**Skeleton**<a/>
 
-#### Draw a picture
+### Draw a picture
 
 - <a href="https://goo.gl/XSzRh9">**Solution (no code)**<a/>
 - <a href="https://goo.gl/jmPQAq">**Solution (with code)**<a/>
 - <a href="https://goo.gl/g8TbhW">**Solution, bonus (no code)**<a/>
 - <a href="https://goo.gl/UpWfZC">**Solution, bonus (with code)**<a/>
 - <a href="https://goo.gl/mBxSCg">**Skeleton**<a/>   
+
+### Glitter
+The shake function cannot be tested on Trinket. 
+
+- <a href="https://trinket.io/python/4de27e6ba8">**Solution (with bonus)**<a/>
+- <a href="https://trinket.io/python/77b6a432af">**Skeleton**<a/>
+
+
+### Dice 
+The shake feature cannot be tested on Trinket so check if the student's code is correct and help them test it on their pi.
+- <a href = "https://trinket.io/python/75be65eb17"> **Solution**</a>
+- <a href = "https://trinket.io/python/cab6a53e6d"> **Skeleton**</a>
+
 
 ### Magic eight ball
 
