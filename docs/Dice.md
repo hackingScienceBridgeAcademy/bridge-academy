@@ -2,7 +2,7 @@
 
 ### Difficulty level: Easy
 
-<img src="./media/dice.png"></img>
+<img src="./media/dice.png">
 
 ## Description
 In this project you'll be creating dice for the classic board game _Snakes and Ladders_
@@ -99,9 +99,9 @@ The next variable is *numbers*. This variable simply contains a list of numbers 
 
 ##### (Sec 1.4) Display a Message
 
-To tell the user that the Raspberry Pi is ready to show some dice, we should display a message. 
+To tell the user that the Raspberry Pi is ready to show some dice, we should display a message.
 
-Add a line of code that will display the words "Dice!" in any colour you want. 
+Add a line of code that will display the words "Dice!" in any colour you want.
 
 
 ##### (Sec. 2) Main program code
@@ -155,7 +155,7 @@ Programming has two parts to it. First understanding the problem and finding a s
 ##### Understanding the Algorithm
 In the dice we are trying to make, the Sense Hat changes the number on the screen after a time interval for 5 seconds. As the we get closer the 5 seconds the time interval starts getting bigger. If we were to have a timeline of the events happening on the SenseHat it would look like this:
 
-<img src="./media/EventTimeline.png"></img>
+<img src="./media/EventTimeline.png">
 
 The coloured vertical lines represent an event i.e. the number on the display screen changing. Near the start, these changes happen very quickly! But as we get closer to the finish, the time step starts increasing and the numbers start slowing down on the SenseHat.
 
@@ -216,7 +216,7 @@ This will make the program wait 2 seconds before moving on to the next line of c
 
 The time step between the changing of numbers increases very slowly right until we get close to the end of the run time. This is done by increasing the time step by almost nothing and then suddenly increasing it nearer to the end time. This means that as we get closer to the end time the rate at which the numbers change starts going down because the wait time increases. Right up until it is bigger than a second, which is when the loop stops! This is what the time step looks like in graphical form.
 
-<img src="./media/timeGraph.png"></img>
+<img src="./media/timeGraph.png">
 
 
 We have implemented this in the background using some clever mathematics!
