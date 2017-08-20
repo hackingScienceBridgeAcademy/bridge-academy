@@ -31,7 +31,7 @@ Each academic lead will have their own equipment so they can demonstrate the pro
 * Each academic lead will be look after a group of 5-6 students
 * Programming language - Python 3
 * Projects are available on: [Coding Summer School Webpage](https://codingsummerschool.github.io/codingsummerschool)
-* Full solutions are available at: *insert link to full solutions*
+* Full solutions are available at: [Solutions](https://codingsummerschool.github.io/codingsummerschool/teachers/trinket_links.html)
 * Projects are split into difficulties: easy, medium and hard
 
 Students will be writing scripts on the Trinket Emulator to develop and debug using the skeleton code provided. To run code on the RPi they must create a python file by copying the code in *main.py* file in Trinket to a new file in IDLE and save this file as a *.py* file. The names mustn't contain spaces.
