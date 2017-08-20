@@ -6,7 +6,7 @@ Welcome! This is the main page that contains all the resources you'll use during
 
 #### [Student Guide](./docs/Student_Guide.md)
 
-This is the printed welcome document that you were all given. 
+This is the printed welcome document that you were all given.
 
 #### [Introduction to Python and the Sense HAT](./docs/SenseHatIntro.md)
 
@@ -23,7 +23,6 @@ when you're working with your projects.
 This contains instructions on how to transfer code from the desktop to the Sense HAT and run it.
 
 
-
 ## Projects
 
 
@@ -38,6 +37,10 @@ and it'll give you an answer.
 #### [Draw a picture](./docs/draw_a_picture_project.md)
 
 In this project you'll learn how to draw a picture on the Sense HAT.
+
+#### [Making Glitter](./docs/glitter.md)
+
+In this project you'll learn how to make the glittery pattern that came on the screen when you turned on the Raspberry Pi!
 
 ### Medium
 
