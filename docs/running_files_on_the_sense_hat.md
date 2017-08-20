@@ -35,7 +35,7 @@ Let's open the IDLE program on your computers. Click start and type IDLE in the 
 
 This will open up a window like this:
 
-<p align = "center">   <img src="./media/idle-shell.jpg" width="500"  /> <br>
+<p align = "center">   <img src="./media/idle-shell.png" width="500"  /> <br>
 
 The Python Shell
 
