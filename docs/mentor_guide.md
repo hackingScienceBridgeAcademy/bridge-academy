@@ -8,9 +8,9 @@ This sheet will guide you through what you should expect on the day and some pos
 <table>
 
 <tr>
-  <td> **Day 1** </td>
-  <td> **Day 2** </td>
-  <td> **Day 3** </td>
+  <td> <b>Day 1</b> </td>
+  <td> <b>Day 2</b> </td>
+  <td> <b>Day 3</b> </td>
 </tr>
 
 <tr>
