@@ -31,7 +31,7 @@ The Sense HAT is an add-on board for the Raspberry Pi. It gives us the ability t
 
 These simple features allow us to do countless things with the Sense HAT, we have come up with a few projects that you will do. To let you really express your imagination and creativity, you get to keep the Sense HAT and Raspberry Pi so you can come up with your own gadgets!  
 
-## The Assembly
+## The Assembly 
 
 ***This section is optional. You may skip to the next section***
 
