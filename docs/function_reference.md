@@ -13,7 +13,7 @@ size and color of the line. For example here's some code that draws a
 horizontal line that is three pixels wide, lies at the position (2, 3),
 and is purple:
 
-    drawHorizontalLine( (2, 3), 3, (255, 0, 255) )
+    drawHorizontalLine(2, 3, 3, 255, 0, 255)
 
 Another way to do it would be
 
@@ -31,7 +31,7 @@ size and color of the line. For example here's some code that draws a
 horizontal line that is three pixels long, lies at the position (2, 3),
 and is purple:
 
-    drawVerticalLine( (2, 3), 3, (255, 0, 255) )
+    drawVerticalLine(2, 3, 3, 255, 0, 255)
 
 Another way to do it would be
 
