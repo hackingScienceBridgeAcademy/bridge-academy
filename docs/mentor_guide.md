@@ -93,7 +93,7 @@ Skeleton code and object classes for projects will already be pre-loaded onto th
 ## Day 1
 * The programme will be introduced by Ishan at 13:00 in the Darwin Lecture Theatre.
 * You must arrive at your resective cluster room by 13:30 to help the student ambassadors login to the computers and set up the room.
-* Students will first work through the webpage. [Introduction to Python and Sense HAT page](https://codingsummerschool.github.io/codingsummerschool/docs/SenseHatIntro.html). It is important that students go through and understand the webpage as it is required to complete the projects.
+* Students will first work through the webpage. [Introduction to Python and Sense HAT page](https://codingsummerschool.github.io/codingsummerschool/docs/sense_hat_intro.html). It is important that students go through and understand the webpage as it is required to complete the projects.
 * Variables and conditional statements are important concepts that the students need to be familiar with.
 * The aim is to get each student to the end of the webpage by the end of session, so they are ready to start the projects the next day - students can start projects if they find the worksheet easy.
 
