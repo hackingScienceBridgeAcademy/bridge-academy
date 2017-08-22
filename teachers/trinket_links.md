@@ -4,7 +4,7 @@ Here are all the solutions to the Trinket projects. There are links
 to both the skeleton codes as well as the solutions.
 
 ### Guide for Mentors
-- <a href="https://codingsummerschool.github.io/codingsummerschool/docs/mentor_guide.html"> **Guide**
+- <a href="../docs/MentorGuide.md"> **Guide**
 
 ### Countdown clock
 

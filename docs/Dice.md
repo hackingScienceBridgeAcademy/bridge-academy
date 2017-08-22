@@ -1,12 +1,11 @@
 # Project: Dice
 
-### Difficulty level: Easy
+### Difficulty level: Medium
 
 <img src="./media/dice.png">
 
 ## Description
-In this project you'll be creating dice for the classic board game _Snakes and Ladders_
-on the Sense HAT.
+In this project you'll be creating dice that you can use to play all sorts of board games!
 
 The aim is to shake the raspberry pi get a random number between 1 and 6 displayed on the screen.
 ## Project Manual
@@ -35,13 +34,12 @@ Note: The text starting with a '#' is called a comment. These comments explain w
 to programmers and people reading the code, but is ignored by the computer.
 
 ##### Coding in Trinket
+The skeleton code for this project is on Trinket at this link: <a href="https://trinket.io/">Skeleton Code for Dice</a>.
 
-You should write and develop your code on the website <a href="https://trinket.io/">https://trinket.io/</a>.
+
 There, you'll be able to test your code on a *virtual* Sense HAT, before you try
 your code on the real thing. Go on to the website, and create an account.
 
-You should copy all of the code in *dice.py*, as well as the other files in the project
-folder, on to a new Trinket project.
 
 ##### Explanation of the skeleton code
 
@@ -141,7 +139,7 @@ is this, calculate this:
     shake = x*x + y*y + z*z
 
 We have stored *x times x plus y times y plus z times z* into the variable *shake*. Now, the larger the variable *shake* is, the more has the Sense HAT been shaken.
-We're going to say that if *shake* is *larger* than *5*, the Sense HAT has been shaken. To do this, you're going to have to use an *if*-statement.
+We're going to say that if *shake* is *larger* than *10*, the Sense HAT has been shaken. To do this, you're going to have to use an *if*-statement.
 
 If you have detected that the Sense HAT has been shaken (in other words, if
 *shake* is larger than 5) you want to start displaying the numbers. This will be done in another *while* loop as explained in the next section.
