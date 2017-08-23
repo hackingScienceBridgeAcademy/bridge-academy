@@ -111,6 +111,7 @@ Skeleton code and object classes for projects will already be pre-loaded onto th
 Here is a list of potential problems that could occur:
 
 * Script appears on the Raspberry Pi but does run the file as expected:
+  **This usually means there is a problem with the code** 
   - Check the script has the following lines at the start:
 
   ```python
@@ -124,7 +125,8 @@ Here is a list of potential problems that could occur:
   - Make sure indentation is correct. This is a very common error. If 2 space indentation doesn't work try 4 space.
   - This example comes from the pong project, which has a library and class in the skeleton code
   - Skeleton code can be found on the Trinket emulator which is on the project script page
+* Raspberry Pi stuck on rainbow on start up: Try taking out the SD card, inserting (when Pi is off)
+* Using IDLE: Make sure that the scripts are saved in a *new window* 
 * Encourage students to try things out by themselves
-
 
 * Please either *text* Ishan (+44 7528692298) or *call* Laura (+44 7891138825) if you encounter any difficulties
