@@ -4,7 +4,7 @@ Here are all the solutions to the Trinket projects. There are links
 to both the skeleton codes as well as the solutions.
 
 ### Guide for Mentors
-- <a href="../docs/MentorGuide.md"> **Guide**
+- <a href="https://codingsummerschool.github.io/codingsummerschool/docs/mentor_guide.html"> **Guide**
 
 ### Countdown clock
 
@@ -29,8 +29,8 @@ The shake function cannot be tested on Trinket.
 
 ### Dice
 The shake feature cannot be tested on Trinket so check if the student's code is correct and help them test it on their pi.
-- <a href = "https://trinket.io/python/75be65eb17"> **Solution**</a>
-- <a href = "https://trinket.io/python/cab6a53e6d"> **Skeleton**</a>
+- <a href = "https://trinket.io/python/63de8118d4"> **Solution**</a>
+- <a href = "https://trinket.io/python/75be65eb1775be65eb17cab6a53e6d"> **Skeleton**</a>
 
 
 ### Magic eight ball

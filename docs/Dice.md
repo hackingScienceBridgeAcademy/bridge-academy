@@ -34,7 +34,7 @@ Note: The text starting with a '#' is called a comment. These comments explain w
 to programmers and people reading the code, but is ignored by the computer.
 
 ##### Coding in Trinket
-The skeleton code for this project is on Trinket at this link: <a href="https://trinket.io/">Skeleton Code for Dice</a>.
+The skeleton code for this project is on Trinket at this link: <a href="https://trinket.io/python/cab6a53e6d">Skeleton Code for Dice</a>.
 
 
 There, you'll be able to test your code on a *virtual* Sense HAT, before you try
