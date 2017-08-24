@@ -4,6 +4,16 @@
 
 Welcome! This is the main page that contains all the resources you'll use during this summer school.
 
+## Feedback form
+
+We'd like to ask you to complete a feedback form, so that we can make the summer
+school even better for future years. Please click on the link below to
+fill in the form:
+
+#### <a href="https://goo.gl/zH2SPi">https://goo.gl/zH2SPi</a>
+
+## Introductory material
+
 #### [Student Guide](./docs/student_guide.md)
 
 This is the printed welcome document that you were all given.
