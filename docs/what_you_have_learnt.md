@@ -1,4 +1,4 @@
-# Post Summer School
+# Summary
 Congratulations on completing the UCL summer coding school.
 
 Over the last few days you have learned to:
