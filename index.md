@@ -25,6 +25,13 @@ when you're working with your projects.
 
 This contains instructions on how to transfer code from the desktop to the Sense HAT and run it.
 
+## Post Summer School Material
+
+#### [Installing Python on your Computer](./docs/guide_to_installing_python.md)
+This contains instructions on how to install python 3 on your own computer
+
+#### [Summary](./docs/what_you_have_learnt.md)
+This contains suggestions on what you could next to further develop your coding skills.
 
 ## Projects
 
