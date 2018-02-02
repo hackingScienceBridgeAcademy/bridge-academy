@@ -1,4 +1,4 @@
-# UCL Coding Summer School - Introduction to Python and the Sense HAT
+# Introduction to Python and the Sense HAT
 
 ## Welcome!
 
@@ -14,7 +14,7 @@ programming before. If you have, then use this lecture as a helpful reminder.
 
 ## 1. Introduction to the Sense HAT
 
-All the projects that we're going to do during the summer school will be using
+The projects that we're going to do during these sessions will be using
 something called the *Sense HAT*. It looks like this:
 
 <img src="./media/sensehat.jpg"></img>
@@ -32,9 +32,7 @@ the current temperature, the pressure in the room
 and can act as a compass!
 
 There are a *ton* of stuff you can do on a Sense HAT.
-Much more than we can cover during this summer school.
-That's why we're going to let you take your Sense HATs
-home with you after the end!
+Much more than we can cover during this session. That's why we're going to let you take the Sense HATs home with you between sessions!
 
 ### 1. Trinket, and writing your first program
 
@@ -513,7 +511,7 @@ We covered quite a lot, and very quickly, so it might be worth to just have a qu
 
 After that, it's time to start choosing a project. You should try to start off with one of
 the easier projects, before attempting any harder ones. Remember that you can
-always ask for help within your group, or by a supervisor, during the entirety of the summer school.
+always ask for help within your group, or by a supervisor, during the entirety of the sessions.
 
 We discussed some useful functions in this lecture, like *sense.set_pixel* and *print*. There
 are many more functions you can use, and the best way to check them all out is by reading
