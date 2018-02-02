@@ -1,15 +1,15 @@
-# UCL Coding Summer School
+<h2 align = "center"> hackingScience Workshops Bridge Academy </h2>
 
-<img src="header.jpg">
+<br><br>
 
-Welcome! This is the main page that contains all the resources you'll use during this summer school.
+Welcome! This is the main page that contains all the resources you'll use during this session. 
 
 
 ## Introductory material
 
 #### [Student Guide](./docs/student_guide.md)
 
-This is the printed welcome document that you were all given.
+A basic guide on the equipment provided. 
 
 #### [Introduction to Python and the Sense HAT](./docs/sense_hat_intro.md)
 
@@ -25,7 +25,7 @@ when you're working with your projects.
 
 This contains instructions on how to transfer code from the desktop to the Sense HAT and run it.
 
-## Post Summer School Material
+## Post Sessions Material
 
 #### [Installing Python on your Computer](./docs/guide_to_installing_python.md)
 This contains instructions on how to install python 3 on your own computer
