@@ -106,5 +106,6 @@ Start thinking about what you are going to create! You will have a budget for eq
 * <a href="https://www.hackster.io/raspberry-pi/products/raspberry-pi-3-model-b" target="_blank">https://www.hackster.io/raspberry-pi/products/raspberry-pi-3-model-b</a>
 * <a href="https://thepihut.com/collections/raspberry-pi-camera" target="_blank">https://thepihut.com/collections/raspberry-pi-camera</a> 
 * <a href="https://www.youtube.com/user/makemagazine/search?query=raspberry%2F" target="_blank">https://www.youtube.com/user/makemagazine/search?query=raspberry%2F</a>
+* <a href="https://shop.pimoroni.com/collections/raspberry-pi/products/pirate-radio-pi-zero-w-project-kit" target="_blank">https://shop.pimoroni.com/collections/raspberry-pi/products/pirate-radio-pi-zero-w-project-kit</a>
 
 
