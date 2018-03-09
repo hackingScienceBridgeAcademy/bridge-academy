@@ -108,4 +108,7 @@ Start thinking about what you are going to create! You will have a budget for eq
 * <a href="https://www.youtube.com/user/makemagazine/search?query=raspberry%2F" target="_blank">https://www.youtube.com/user/makemagazine/search?query=raspberry%2F</a>
 * <a href="https://shop.pimoroni.com/collections/raspberry-pi/products/pirate-radio-pi-zero-w-project-kit" target="_blank">https://shop.pimoroni.com/collections/raspberry-pi/products/pirate-radio-pi-zero-w-project-kit</a>
 
+### [Submit your project idea](./docs/project_submit.md)
+
+
 
