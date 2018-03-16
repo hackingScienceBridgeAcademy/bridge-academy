@@ -28,3 +28,17 @@ https://thepihut.com/blogs/raspberry-pi-tutorials/16021420-how-to-install-use-th
 
 * <a href="https://goo.gl/forms/V9vQLNf6nAR6gwGr1" target="_blank">Project Form</a>
 
+# Project logistics
+
+Once your group has discussed the project, and have a rough idea written down in the form, you will need to think about the logistics of your project: 
+
+* ## How will you communicate with each other, share resources and organise yourselves? 
+* <a href="https://slack.com/" target="_blank">Slack</a>
+
+* ## How will you keep track of your work?
+* <a href="https://github.com/" target="_blank">github</a>
+* <a href="https://trinket.io/signup" target="_blank">Trinket Account</a>
+* <a href="https://github.com/ishank95/Pi_digits" target="_blank">Have a look at example github, you might find projects similar to yours that can help</a>
+
+
+
