@@ -110,5 +110,6 @@ Start thinking about what you are going to create! You will have a budget for eq
 
 ### [Submit your project idea](./docs/project_submit.md)
 
+### [Algorithm Session](./docs/bridge_algorithm_session.md) 
 
 
