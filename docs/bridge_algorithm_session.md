@@ -21,7 +21,7 @@ Algorithm :
 “An algorithm is a list of rules to follow in order to solve a problem”
 ```
 
-> <a href=https://www.youtube.com/watch?v=6hfOvs8pY1k target="_blank">https://www.youtube.com/watch?v=6hfOvs8pY1k</a>
+> <a href="https://www.youtube.com/watch?v=6hfOvs8pY1k" target="_blank">https://www.youtube.com/watch?v=6hfOvs8pY1k</a>
 
 You will have to think through your algorithm, and testing it as you go along. 
 
