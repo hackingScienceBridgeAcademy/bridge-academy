@@ -26,7 +26,7 @@ Algorithm :
 You will have to think through your algorithm, and testing it as you go along. 
 
 ## Your challenge: Creating hangman
-Sounding simple, but will require you to use fundamental programming concepts and see if you can solve it.  
+Sounding simple, but will require you to use fundamental programming concepts and see if you can solve it without looking at the solutions too much.  
 
 If you can do this you should be able to move onto the harder problems at the end of the session. 
 
