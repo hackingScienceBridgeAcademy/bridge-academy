@@ -68,9 +68,9 @@ Things your code will most likely include:
 (The solution written here is not completely similar to this) 
 
 > When you are writing your code remember to:
--Read the errors that occur, google them
--when something isn’t working, use print statements! 
--for certain functions, look them up in python documentation (here) 
+*the errors that occur, google them
+*when something isn’t working, use print statements! 
+*for certain functions, look them up in python documentation (here) 
 
 **If you finish this, and want to further test your algorithmic thinking work your way through this problem sheet: 
 (Printed off sheet, which you should use to help solve the problems)**
