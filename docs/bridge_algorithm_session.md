@@ -32,17 +32,11 @@ Sounding simple, but will require you to use fundamental programming concepts an
 
 1.	Write down your algorithm (in non-code form), of hangman works / what steps happen in a game of hangman? to help you think about how you are going to do it.
 
-For example 
-
 #### [for example](./hangman_image.md) 
-
-<img src = "./media/hangman_al.PNG"></img>
 
 2.	Write down your Algorithm (in non code form) of how you therefore might code the game of hangman ? 
 
-#### [for example](.hangman_image2.md) 
-
-<img src = "./media/hang-man_al_pesu.PNG"></img>
+#### [for example](./hangman_image2.md) 
 
 Now you know the instructions you will need for to create hangman; you have designed your algortihim: 
 
@@ -87,3 +81,5 @@ If you get really stuck, here are the solutions to the above problem sheet:
 -	Breaking down the problem 
 -	Essentially thinking the steps through
 -	You solved it! Problem-solving is a skill, it isn’t about learning syntax, there isn’t only one correct solution, you have to think of the solutions (evening if you are copying and pasting you still should think about what’s going on) and learning how you go about implementing this and ‘debugging’; figuring out where your solution is going wrong. 
+<img src = "./media/hangman_al.PNG"></img>
+<img src = "./media/hang-man_al_pesu.PNG"></img>
