@@ -34,7 +34,7 @@ Sounding simple, but will require you to use fundamental programming concepts an
 
 For example 
 
-<img src = "./Media/hangman_al.PNG"></img>
+<img src = "./media/hangman_al.PNG"></img>
 
 2.	Write down your Algorithm (in non code form) of how you therefore might code the game of hangman ? 
 For Example
