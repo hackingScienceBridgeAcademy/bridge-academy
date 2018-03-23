@@ -71,6 +71,8 @@ When you are writing your code remember to:
 - for certain functions, look them up in python documentation (here) 
 
 **If you finish this, and want to further test your algorithmic thinking work your way through this problem sheet: 
+#### [algorithms problem sheet](./problems(1).md) 
+
 (Printed off sheet, which you should use to help solve the problems)**
 
 If you get really stuck, here are the solutions to the above problem sheet: 
