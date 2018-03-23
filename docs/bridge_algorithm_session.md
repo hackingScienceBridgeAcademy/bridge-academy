@@ -58,6 +58,7 @@ Now you know the instructions you will need for to create hangman; you have desi
 
 
 There are many variations to how you could do this, you don’t have to follow the guide completely. 
+
 Things your code will most likely include: 
 
 -	If and else statements 
@@ -65,19 +66,22 @@ Things your code will most likely include:
 -	While loops 
 -	Print statements 
 -	User inputs 
+
 (The solution written here is not completely similar to this) 
-When you are writing your code remember to:
+
+> When you are writing your code remember to:
 -Read the errors that occur, google them
-- when something isn’t working, use print statements! 
+-when something isn’t working, use print statements! 
 -for certain functions, look them up in python documentation (here) 
 
-If you finish this, and want to further test your algorithmic thinking work your way through this problem sheet: 
+> If you finish this, and want to further test your algorithmic thinking work your way through this problem sheet: 
 Printed off the session to help you with it! 
 
-If you get really stuck, here are the solutions: 
+If you get really stuck, here are the solutions to the above problem sheet: 
 
-Or if you have your raspberry pi, how might you go about having the drawing of the hangman displayed? 
-What is the importance of learning to be able to create these Algorithms? 
+> Or if you have your raspberry pi, how might you go about having the drawing of the hangman displayed? 
+
+>What is the importance of learning to be able to create these Algorithms? 
 -	Breaking down the problem 
 -	Essentially thinking the steps through
 -	You solved it! Problem-solving is a skill, it isn’t about learning syntax, there isn’t only one correct solution, you have to think of the solutions (evening if you are copying and pasting you still should think about what’s going on) and learning how you go about implementing this and ‘debugging’; figuring out where your solution is going wrong. 
