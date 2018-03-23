@@ -20,10 +20,9 @@ Algorithm :
 ```
 “An algorithm is a list of rules to follow in order to solve a problem”
 ```
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=CvSOaYi89B4
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-https://www.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms
+
+> https://www.youtube.com/watch?v=6hfOvs8pY1k
+
 
 You will have to think through your algorithm, and testing it as you go along. 
 
