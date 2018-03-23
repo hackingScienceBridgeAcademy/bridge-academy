@@ -1,6 +1,6 @@
 # Algorithims
 
-## General Introduction
+## General
 
 > So far you have been working on some of the raspberry pi challenges (e.g creating snake, magic eight ball, the countdown clock ect). 
 You have also been thinking about what you want to create.
