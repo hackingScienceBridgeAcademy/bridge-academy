@@ -28,7 +28,7 @@ You will have to think through your algorithm, and testing it as you go along.
 ## Your challenge: Creating hangman
 Sounding simple, but will require you to use fundamental programming concepts and see if you can solve it without looking at the solutions too much.  
 
-If you can do this you should be able to move onto the harder problems at the end of the session. 
+> If you can do this you should be able to move onto the harder problems (near the bottom of the page) . 
 
 1.	Write down your algorithm (in non-code form), of hangman works / what steps happen in a game of hangman? to help you think about how you are going to do it.
 For example 
