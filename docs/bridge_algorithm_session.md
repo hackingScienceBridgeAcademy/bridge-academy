@@ -31,9 +31,10 @@ Sounding simple, but will require you to use fundamental programming concepts an
 > If you can do this you should be able to move onto the harder problems (near the bottom of the page) . 
 
 1.	Write down your algorithm (in non-code form), of hangman works / what steps happen in a game of hangman? to help you think about how you are going to do it.
+
 For example 
 
-(click here to see one that I wrote after you have written yours). 
+<img src = "./Media/hangman_al.png"></img>
 
 2.	Write down your Algorithm (in non code form) of how you therefore might code the game of hangman ? 
 For Example
