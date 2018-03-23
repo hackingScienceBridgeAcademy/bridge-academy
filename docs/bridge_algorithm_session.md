@@ -60,7 +60,7 @@ There are many variations to how you could do this, you don’t have to follow t
 Things your code will most likely include: 
 
 -	If and else statements 
--	Looping through arrays
+-	Looping through arrays (for loops)
 -	While loops 
 -	Print statements 
 -	User inputs 
