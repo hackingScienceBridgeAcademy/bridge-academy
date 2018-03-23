@@ -73,7 +73,7 @@ Things your code will most likely include:
 -for certain functions, look them up in python documentation (here) 
 
 **If you finish this, and want to further test your algorithmic thinking work your way through this problem sheet: 
-(Printed off sheet to help you try solve the problems with)**
+(Printed off sheet, which you should use to help solve the problems)**
 
 If you get really stuck, here are the solutions to the above problem sheet: 
 
