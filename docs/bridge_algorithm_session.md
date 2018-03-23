@@ -40,7 +40,7 @@ Sounding simple, but will require you to use fundamental programming concepts an
 
 Now you know the instructions you will need for to create hangman; you have designed your algortihim: 
 
-### Open up trinket.io  <a href=https://trinket.io/ target="_blank">https://trinket.io/</a>  (if you haven’t already, create an account) navigate to where you can create new code: 
+### Open up trinket.io  <a href="https://trinket.io/" target="_blank">https://trinket.io/</a>  (if you haven’t already, create an account) navigate to where you can create new code: 
 
 ### Follow this guide, which contains code examples and the functions which will be useful: 
 
@@ -72,7 +72,6 @@ When you are writing your code remember to:
 
 **If you finish this, and want to further test your algorithmic thinking work your way through this problem sheet: 
 #### [algorithms problem sheet](./problems(1).md) 
-#### [help_sheet](./algoproblemsession.md)
 
 (Printed off sheet, which you should use to help solve the problems)**
 
