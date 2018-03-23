@@ -48,11 +48,14 @@ Now you know the instructions you will need for to create hangman; you have desi
 
 ### Follow this guide, which contains code examples and the functions which will be useful: 
 
-> Part 1 : https://www.practicepython.org/exercise/2016/09/24/30-pick-word.html
+> <a href="https://www.practicepython.org/exercise/2016/09/24/30-pick-word.html" target="_blank">Part 1</a>
 
-> Part 2: https://www.practicepython.org/exercise/2017/01/02/31-guess-letters.html
 
-> Part 3: https://www.practicepython.org/exercise/2017/01/10/32-hangman.html
+> <a href="https://www.practicepython.org/exercise/2017/01/02/31-guess-letters.html" target="_blank">Part 2</a>
+
+
+> <a href="https://www.practicepython.org/exercise/2017/01/10/32-hangman.html" target="_blank">Part 3</a>
+
 
 There are many variations to how you could do this, you don’t have to follow the guide completely. 
 Things your code will most likely include: 
