@@ -72,6 +72,7 @@ When you are writing your code remember to:
 
 **If you finish this, and want to further test your algorithmic thinking work your way through this problem sheet: 
 #### [algorithms problem sheet](./problems(1).md) 
+#### [help_sheet](./algoproblemsession.md)
 
 (Printed off sheet, which you should use to help solve the problems)**
 
