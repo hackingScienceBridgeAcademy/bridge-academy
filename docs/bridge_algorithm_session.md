@@ -1,4 +1,6 @@
-# Algorithim Selection
+# Algorithims
+
+## General Intro 
 
 So far you have been working on some of the raspberry pi challenges (e.g creating snake, magic eight ball, the countdown clock ect). 
 You have also been thinking about what you want to create! 
@@ -6,6 +8,8 @@ You have also been thinking about what you want to create!
 If your group hasn’t thought of an idea yet, we will provide projects and order some equipment for next week for you to start to build and programme.
 
 The UCL summer school, will also give you the opportunity to create an idea of your choice (again if not, we will think of a real world problem for you to solve). As mentioned the summer school will take place over 3 days, and is an excellent opportunity for you to develop your learning skills, as well as your programming skills and interaction with university students and environment. 
+
+## Idea of Algorithms
 
 Today we will focus on the valuable skill of ‘problem-solving’. You will be designing and implementing your own algorithms.  
 
