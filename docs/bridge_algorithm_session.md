@@ -43,7 +43,7 @@ For Example
 
 Now you know the instructions you will need for to create hangman; you have designed your algortihim: 
 
-### Open up trinket.io  https://trinket.io/  (if you haven’t already, create an account) navigate to where you see: 
+### Open up trinket.io  <a href=https://trinket.io/ target="_blank">https://trinket.io/</a>  (if you haven’t already, create an account) navigate to where you can create new code: 
 
 ### Follow this guide, which contains code examples and the functions which will be useful: 
 
