@@ -7,7 +7,7 @@ You have also been thinking about what you want to create.
 
 > If your group hasn’t thought of an idea yet, we will provide projects and order some equipment for next week for you to start to build and programme.
 
-> The UCL summer school, will also give you the opportunity to create an idea of your choice (again if not, we will think of a real world problem for you to solve). As mentioned the summer school will take place over 3 days, and is an excellent opportunity for you to develop your learning skills, as well as your programming skills and interaction with the university environment and its students. 
+> At the UCL summer school you will create a longer project of your choice (again if not, we will think of a real world problem for you to solve). As mentioned the summer school will take place over 3 days, and is an excellent opportunity for you to develop your general learning and programming skills, as well as expose you to the university environment and its students. 
 
 ## Idea of Algorithms
 
