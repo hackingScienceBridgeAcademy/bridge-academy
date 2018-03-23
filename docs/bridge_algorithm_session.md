@@ -74,14 +74,14 @@ Things your code will most likely include:
 -when something isn’t working, use print statements! 
 -for certain functions, look them up in python documentation (here) 
 
-> If you finish this, and want to further test your algorithmic thinking work your way through this problem sheet: 
-Printed off the session to help you with it! 
+> **If you finish this, and want to further test your algorithmic thinking work your way through this problem sheet: 
+Printed off the session to help you with it!**
 
 If you get really stuck, here are the solutions to the above problem sheet: 
 
-> Or if you have your raspberry pi, how might you go about having the drawing of the hangman displayed? 
+> **Or if you have your raspberry pi, how might you go about having the drawing of the hangman displayed?** 
 
->What is the importance of learning to be able to create these Algorithms? 
+>**What is the importance of learning to be able to create these Algorithms?**
 -	Breaking down the problem 
 -	Essentially thinking the steps through
 -	You solved it! Problem-solving is a skill, it isn’t about learning syntax, there isn’t only one correct solution, you have to think of the solutions (evening if you are copying and pasting you still should think about what’s going on) and learning how you go about implementing this and ‘debugging’; figuring out where your solution is going wrong. 
