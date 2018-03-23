@@ -39,7 +39,7 @@ For example
 2.	Write down your Algorithm (in non code form) of how you therefore might code the game of hangman ? 
 For Example
 
-(click here to see one that I wrote after you have written yours, compare it to yours it doesn’t have to be the same as long as you think yours will work. ) . 
+<img src = "./media/hang-man_al-pesu.PNG"></img>
 
 Now you know the instructions you will need for to create hangman; you have designed your algortihim: 
 
