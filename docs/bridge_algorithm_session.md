@@ -34,13 +34,13 @@ Sounding simple, but will require you to use fundamental programming concepts an
 
 For example 
 
-#### [for example](./docs/hangman_image.md) 
+#### [for example](./hangman_image.md) 
 
 <img src = "./media/hangman_al.PNG"></img>
 
 2.	Write down your Algorithm (in non code form) of how you therefore might code the game of hangman ? 
 
-#### [for example](./docs/hangman_image2.md) 
+#### [for example](.hangman_image2.md) 
 
 <img src = "./media/hang-man_al_pesu.PNG"></img>
 
