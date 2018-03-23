@@ -23,7 +23,6 @@ Algorithm :
 
 > https://www.youtube.com/watch?v=6hfOvs8pY1k
 
-
 You will have to think through your algorithm, and testing it as you go along. 
 
 ## Your challenge: Creating hangman
