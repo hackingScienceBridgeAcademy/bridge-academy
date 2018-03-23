@@ -83,3 +83,5 @@ If you get really stuck, here are the solutions to the above problem sheet:
 -	You solved it! Problem-solving is a skill, it isn’t about learning syntax, there isn’t only one correct solution, you have to think of the solutions (evening if you are copying and pasting you still should think about what’s going on) and learning how you go about implementing this and ‘debugging’; figuring out where your solution is going wrong. 
 <img src = "./media/hangman_al.PNG"></img>
 <img src = "./media/hang-man_al_pesu.PNG"></img>
+<img src = "./media/hangman_code.PNG"></img>
+<img src = "./media/hangman_code2.PNG"></img>
