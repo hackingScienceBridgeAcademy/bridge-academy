@@ -6,11 +6,15 @@ What you build is up to you, you don't have to stick to the guides completly. If
 
 (Also let us know if you would like to order anything else). 
 
-### You will have 3 sessions to see how far you get with these projects. We are here to help you as much as we can during the sessions, but you are free to work on the projects outside of the lessons indpendently and with each other. 
+### You will have 3 sessions to see how far you get with these projects. We are here to help you as much as we can during the sessions, you are free to work on the projects outside of the lessons indpendently and with each other. 
 
-We want to showcase your work and you will get to build on these projects futher at UCL.
+We want you to build on these projects futher at UCL and eventually showcase your work. 
 
 ### The main aims of the projects are to have fun, develop independent learning skills and see what you can create. 
+
+Though the simple programmes you have been writing have been teaching you the basics of programming itself, it is perhaps more intresting to see some more real world applications. Technology has become part of our lives, [transforming healthcare](http://www.wired.co.uk/article/ada-smartphone-doctor-nhs-gp-video-appointment), gamming, sports, how we interact with each other, energy generation, how the economy will function. 
+
+The projects you will do will explore areas relating to gaming, sports/healthcare and machine learning. 
 
 There are 3 projects, see their mini descriptions below and click on them to find the corresponding guides: 
 
@@ -22,7 +26,7 @@ If you find any more guides or useful resources, please let us know and we can a
 
 [Google Voice Kit](./pi_google_voice_kits.md) 
 
-Involes machine learning, asembeely and you will get to expand the project. 
+We hear a lot about machine learning, You can build a standalone voice recognition system with TensorFlow or Google SDK eor add voice recognition and natural language processing to your Raspberry Pi-based projects 
 
 
 
