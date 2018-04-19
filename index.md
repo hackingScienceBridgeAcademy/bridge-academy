@@ -112,5 +112,5 @@ Start thinking about what you are going to create! You will have a budget for eq
 
 ### [Algorithm Session](./docs/bridge_algorithm_session.md) 
 
-### [Pi Projects](./docs/piprojects)
+### [Pi Projects](./docs/piprojects.md)
 
