@@ -23,13 +23,17 @@ How does the ECG show heart defects or measurements? What is going on in the hea
 
 What data do you want to collect and study? 
 
-2) You also have a raspberry Pi camera, 
+**2) Raspberry Pi camera** 
 
+Goal line technology using a raspberry pi is something that can be done as shown here:  [Goal_line_technology](http://www.roedan.com/goal-line-technology/)
 
+Using the above, and the camera you could create a counter system to detect when a football has crossed the line, or when you score a basket ball. 
 
-3) We were thinking of also buying a GPS module: Would this be useful for you? If you could track your overall distance during a game, then you could work out your average speed during a game? 
+With this project there can be multiple layers of complexity. A simple version of this can just be an object has crossed the line while a much more advanced task would be to detect when the football has crossed the line. This advanced task would invole concepts of machine learning! : [image recognition ball](https://www.pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/)
 
-4) How could we use the Raspberry Pi to measure sprint speed? What sensors do the Pi's have? 
+**3) We were thinking of also buying a GPS module: Would this be useful for you? If you could track your overall distance during a game, then you could work out your average speed during a game?**
+
+**4) How could we use the Raspberry Pi to measure sprint speed? What sensors do the Pi's have?**
 
 
 
