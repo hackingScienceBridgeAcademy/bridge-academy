@@ -6,7 +6,7 @@ Here are some intresting articles realted to maybe the future of gaming:
 * [Real-world Pong and Pac-Man](http://www.wired.co.uk/article/holodeckvr-virtual-gaming-virtual-reality)
 * [Can VR help diagnose dementia?](http://www.wired.co.uk/article/diagnose-dementia-virtual-reality)
 
-**This is your project idea that you wrote! : *we are going to make a small, arcade like platformer with an endless mode and story mode. The game will be played on a raspberry pi, connected to a small lcd monitor and be controlled by a retro style NES controller. We will 3d print a case that holds the pi and monitor, to give it a more genuine look.* **
+**This is your project idea that you wrote! : *we are going to make a small, arcade like platformer with an endless mode and story mode. The game will be played on a raspberry pi, connected to a small lcd monitor and be controlled by a retro style NES controller. We will 3d print a case that holds the pi and monitor, to give it a more genuine look.***
 
 **Here is the monitor you have: [Pi Monitor](https://www.amazon.co.uk/dp/B013JECYF2/ref=psdc_949408031_t1_B00XVDULES%20(monitor[I%20have%20amazon%20prime,%20so%20i%20could%20use%20my%20account]),%20https://coolcomponents.co.uk/products/nes-style-retro-usb-gamepad-raspberry-pi-windows-mac-compatible?variant=1268703068174)**
 
