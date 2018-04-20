@@ -26,7 +26,7 @@ If you find any more guides or useful resources, please let us know and we can a
 
 [Google Voice Kit](./pi_google_voice_kits.md) 
 
-We hear a lot about machine learning, You can build a standalone voice recognition system with TensorFlow or Google SDK eor add voice recognition and natural language processing to your Raspberry Pi-based projects 
+We hear a lot about machine learning, You can build a standalone voice recognition system with TensorFlow or Google SDK or add voice recognition and natural language processing to your Raspberry Pi-based projects 
 
 
 
