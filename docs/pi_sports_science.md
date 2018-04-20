@@ -21,7 +21,7 @@ Remember that if you think of anything else, this is your project and you are fr
 
 How does the ECG show heart defects or measurements? What is going on in the heart and body to produce the ECG? 
 
-What data do you want to collect and study? 
+What data do you want to collect and study? What does your ECG look like when you first wake up, after playing sports for 90 minutes, after you eat, after you sprint? 
 
 **2) Raspberry Pi camera** 
 
