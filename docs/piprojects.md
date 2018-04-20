@@ -12,7 +12,18 @@ We want you to build on these projects futher at UCL and eventually showcase you
 
 ### The main aims of the projects are to have fun, develop independent learning skills and see what you can create. 
 
-Though the simple programmes you have been writing have been teaching you the basics of programming itself, it is perhaps more intresting to see some more real world applications. Technology has become part of our lives, [transforming healthcare](http://www.wired.co.uk/article/empatica-embrace-epilepsy-wearable-medical-device), [gamming](http://www.wired.co.uk/article/holodeckvr-virtual-gaming-virtual-reality), [sports](http://www.wired.co.uk/article/real-madrid-wearable-tech-shaping-football-future), [music](http://www.wired.co.uk/article/how-is-technology-changing-music-big-question), [how we interact with each other](http://www.wired.co.uk/article/facebook-facial-recognition-opt-out-settings-lawsuit-turn-off-gdpr-eu), [energy generation](http://www.wired.co.uk/article/xprize-global-warming-climate-change-co2-pollution), [how the economy will function](https://www.wired.com/story/how-technology-unsettled-the-stock-market/). 
+> <a href="https://www.practicepython.org/exercise/2016/09/24/30-pick-word.html" target="_blank">Part 1</a>
+
+Though the simple programmes you have been writing have been teaching you the basics of programming itself, it is perhaps more intresting to see some more real world applications. Technology has become part of our lives:
+* <a href="http://www.wired.co.uk/article/empatica-embrace-epilepsy-wearable-medical-devic" target="_blank">transforming healthcare</a>
+* <a href="http://www.wired.co.uk/article/holodeckvr-virtual-gaming-virtual-reality" target="_blank">gamming</a>
+* <a href="http://www.wired.co.uk/article/real-madrid-wearable-tech-shaping-football-future" target="_blank">sports</a>
+* <a href="http://www.wired.co.uk/article/how-is-technology-changing-music-big-question" target="_blank">music</a>
+* <a href="http://www.wired.co.uk/article/facebook-facial-recognition-opt-out-settings-lawsuit-turn-off-gdpr-eu" target="_blank">how we interact with each other</a>
+* <a href="http://www.wired.co.uk/article/xprize-global-warming-climate-change-co2-pollution" target="_blank">energy generation</a>
+* <a href="https://www.wired.com/story/how-technology-unsettled-the-stock-market/" target="_blank">how the economy will function</a>
+
+
 
 The projects you will do will explore areas relating to gaming, sports/healthcare and machine learning. 
 
