@@ -12,7 +12,7 @@ Following themes from the articles above, the sports science raspberry Pi projec
 
 Remember that if you think of anything else, this is your project and you are free to change it. 
 
-1) ECG heart rate monitor, you have the following piece of kit: 
+**1) ECG heart rate monitor, you have the following piece of kit:**
 
 [ECG KIT](https://thepihut.com/products/gravity-analog-heart-rate-monitor-sensor-ecg-for-arduino) Look under the documents part of this link, and click the project WIKI. The project WIKI will help you with the inital set up. 
 
