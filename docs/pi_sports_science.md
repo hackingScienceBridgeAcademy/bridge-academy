@@ -8,4 +8,18 @@
 
 ### Have a look at this article about The Embrace watch is an approved medical device and monitors subtle changes in sweat levels to detect when the wearer is having an epileptic seizure: [Medical-grade smartwatch is helping people live with epilepsy](http://www.wired.co.uk/article/empatica-embrace-epilepsy-wearable-medical-device)
 
+Following themes from the articles above the sports science raspberry Pi projects will look at trying to take ECG measurements from your heart, and also using the raspberry pi camera as a goal or basket ball scocer device. 
+
+1) ECG heart rate monitor, you have the following piece of kit: 
+
+
+Perhaps get it working first and then try to figure out what the ECG signal is actually used for in hospitals?
+
+How does the ECG show heart defects or measurements? What is going on in the heart and body to produce the ECG? 
+
+What data do you want to collect and study? 
+
+2) You also have a raspberry Pi camera, 
+
+
 
